@@ -1,0 +1,31 @@
+<mat-card>
+    <div class="mat-h1" style="font-weight: bolder;">Odaberite finaliste takmicenja</div>
+    <br>
+    <form>
+        <table id="tabela">
+            <tr>
+                <th class="mat-h1" style="text-align: center;">Ime</th>
+                <th class="mat-h1" style="text-align: center;">Prezime</th>
+                <th class="mat-h1" style="text-align: center;">Nacionalnost</th>
+                <th class="mat-h1" style="text-align: center;">Finalisti</th>
+            </tr>
+            <tr *ngFor="let s of takmicenje?.sportisti">
+                <td class="mat-h1" style="text-align: center;">{{s.ime}}</td>
+                <td class="mat-h1" style="text-align: center;">{{s.prezime}}</td>
+                <td class="mat-h1" style="text-align: center;">{{s.nacionalnost}}</td>
+                <td>                    
+                    <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="s.finalista">
+                    </mat-checkbox>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <br>
+    <button mat-stroked-button color="primary" class="dugme" (click)="formirajGrupu()">Formiraj grupu</button>
+    <br>
+</mat-card>
+
+<br><br><br>
+
+<button mat-raised-button color="primary" class="dugme" (click)="nazad()">Nazad</button>
+<br><br><br>

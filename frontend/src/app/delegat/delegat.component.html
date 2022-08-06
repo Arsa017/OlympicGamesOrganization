@@ -1,0 +1,116 @@
+<mat-card>
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Termin za finalnu grupu</div>
+            </mat-expansion-panel-header>
+
+            <table *ngIf="mojaTakmicenja?.length > 0">
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select style="font-size: 15px;" name="takmicenja" placeholder="Moja takmicenja"
+                                [(ngModel)]="sportIDiciplinaIPol">
+                                <mat-option *ngFor="let s of mojaTakmicenja"
+                                    value="{{s.nazivSporta}}-{{s.nazivDiscipline}}-{{s.pol}}">{{s.nazivSporta}} -
+                                    {{s.nazivDiscipline}} / {{s.pol}} pol
+                                </mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <input matInput type="date" name="datumPocetka" placeholder="Datum finala"
+                                [(ngModel)]="datum">
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <input matInput type="time" name="satnica" placeholder="Satnica finala"
+                                [(ngModel)]="satnica">
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button mat-stroked-button color="primary" class="dugme" (click)="unesiTermin()">Unesite
+                            termin</button>
+                    </td>
+                </tr>
+            </table>
+
+            <div class="mat-h2" *ngIf="mojaTakmicenja?.length == 0">Svim finalnim grupama termini dodeljeni</div>
+
+        </mat-expansion-panel>
+    </mat-accordion>
+</mat-card>
+
+<mat-card>
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Kreiranje finalne grupe</div>
+            </mat-expansion-panel-header>
+            <table>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select style="font-size: 15px;" name="svaTakmicenja" placeholder="Moja takmicenja"
+                                [(ngModel)]="grupaSDP">
+                                <mat-option *ngFor="let s of svaMojaTakmicenja"
+                                    value="{{s.nazivSporta}}-{{s.nazivDiscipline}}-{{s.pol}}">{{s.nazivSporta}} -
+                                    {{s.nazivDiscipline}} / {{s.pol}} pol
+                                </mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button mat-stroked-button color="primary" class="dugme" (click)="kreirajGrupu()">Kreiranje
+                            grupe</button>
+                    </td>
+                </tr>
+            </table>
+        </mat-expansion-panel>
+    </mat-accordion>
+</mat-card>
+
+<mat-card>
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Unos rezultata</div>
+            </mat-expansion-panel-header>
+        
+            <table *ngIf="mojaFinalnaTakmicenja?.length > 0">
+                <tr>
+                    <mat-form-field>
+                        <mat-select style="font-size: 15px;" name="svaFinala" placeholder="Moja finala" [(ngModel)]="finaleSDP">
+                            <mat-option *ngFor="let s of mojaFinalnaTakmicenja"
+                                    value="{{s.nazivSporta}}-{{s.nazivDiscipline}}-{{s.pol}}">{{s.nazivSporta}} -
+                                    {{s.nazivDiscipline}} / {{s.pol}} pol
+                                </mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                </tr>
+                <tr>
+                    <td>
+                        <button mat-stroked-button color="primary" class="dugme" (click)="unosRezultata()">Unesite
+                            rezultate</button>
+                    </td>
+                </tr>
+            </table>
+
+            <div class="mat-h2" *ngIf="mojaFinalnaTakmicenja?.length == 0">Rezultati finalnih grupa uneseni</div>
+        
+        </mat-expansion-panel>
+    </mat-accordion>
+</mat-card>
+
+<br><br><br>
+<button mat-raised-button color="primary" class="dugme" (click)="izlogujSe()">Logout</button>

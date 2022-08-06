@@ -1,0 +1,218 @@
+<mat-card>
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Zahtevi za registraciju</div>
+            </mat-expansion-panel-header>       
+        <table class="tabela" *ngIf="neregKorisnici?.length != 0">
+            <tr>
+                <th>Korisnicko ime</th>
+                <th>Ime</th>
+                <th>Prezime</th>
+                <th>Zemlja</th>
+                <th>Tip korisnika</th>
+                <th>Registracija</th>
+            </tr>
+            <tr *ngFor="let k of neregKorisnici">
+                <td class="mat-body-2">{{k.kor_ime}}</td>
+                <td class="mat-body-2">{{k.ime}}</td>
+                <td class="mat-body-2">{{k.prezime}}</td>
+                <td class="mat-body-2">{{k.nacionalnost}}</td>
+                <td class="mat-body-2">{{k.tip}}</td>
+                <td>
+                    <button mat-stroked-button color="primary" (click)="odobriRegistraciju(k.kor_ime)">Odobri</button>
+                </td>
+            </tr>
+        </table>
+        <div class="mat-body-2" *ngIf="neregKorisnici?.length == 0">Nema zahteva za registraciju</div>
+        </mat-expansion-panel>
+    </mat-accordion>
+</mat-card>
+
+<mat-card>
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Dodavanje sportova i sportskih disciplina</div>
+            </mat-expansion-panel-header>       
+       <form>
+           <table>
+               <tr>
+                   <mat-form-field>
+                    <td><input matInput type="text" name="sport" [(ngModel)]="nazivSporta" required placeholder="Unesite naziv sporta"></td>
+                   </mat-form-field>    
+               </tr>
+               <tr>
+                   <mat-form-field>
+                       <td><input matInput type="text" name="disciplina" [(ngModel)]="nazivDiscipline" required placeholder="Unesite naziv sportske discipline" ></td>
+                   </mat-form-field>
+               </tr>
+               <tr>
+                   <td>
+                    <mat-form-field>
+                        <mat-select name="vrsta" placeholder="Odaberite vrstu sporta" [(ngModel)]="vrsta" required>
+                            <mat-option value="individualni">Individualni</mat-option>
+                            <mat-option value="ekipni">Ekipni</mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                   </td>
+               </tr>
+               <tr>
+                   <td><button mat-stroked-button color="primary" (click)="dodajSport()">Dodaj</button></td>
+                </tr>
+                <tr><br></tr>
+               <tr>
+                   <td class="kolona">
+                       Lista unetih <a routerLink="/lista-sportova" >sportova</a> 
+                   </td>
+               </tr>
+           </table>
+       </form>
+        </mat-expansion-panel>
+    </mat-accordion>
+
+</mat-card>
+
+<mat-card>
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Kreiranje takmicenja i formata za individualne sportove</div>
+            </mat-expansion-panel-header>       
+        <form>
+            <table>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select name="sport" placeholder="Odaberite sportsku disciplinu" required [(ngModel)]="sportIdisciplina">
+                                <mat-option *ngFor='let s of individualniSportovi' value="{{s.nazivSporta}}-{{s.nazivDiscipline}}">{{s.nazivSporta}} - {{s.nazivDiscipline}}</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select name="format" placeholder="Odaberite format takmicenja" required [(ngModel)]="formatTakmicenja">
+                                <mat-option *ngFor='let f of formati' value="{{f}}">{{f}}</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select name="polTakmicnja" placeholder="Takmicenje za pol" required [(ngModel)]="pol">
+                                <mat-option value="muski">Muski</mat-option>
+                                <mat-option value="zenski">Zenski</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <input matInput type="date" name="datumPocetka" placeholder="Datum pocetka" required [(ngModel)]="datumPocetka">
+                    </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <input matInput type="date" name="datumKraja" placeholder="Datum kraja" required [(ngModel)]="datumKraja">
+                    </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <input matInput type="text" name="lokacija" placeholder="Lokacija takmicenja" required [(ngModel)]="lokacija">
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    
+                        <td>                        
+                            <button mat-stroked-button color="primary" (click)="kreirajTakmicenje()">Kreiraj takmicenje</button>
+                        </td>
+                    
+                </tr>
+            </table>
+        </form>
+
+        </mat-expansion-panel>
+    </mat-accordion>
+
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Dodavanje prijavljenih sportista za takmicenje</div>
+            </mat-expansion-panel-header>       
+        <form>
+            <table *ngIf="takmicenjaBezSportista?.length != 0"> <!-- <table class="tabela" *ngIf="neregKorisnici.length != 0"> -->
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select name="sport" placeholder="Odaberite sportsku disciplinu" required [(ngModel)]="sportIdisciplinaZaFormiranje">
+                                <mat-option *ngFor='let k of takmicenjaBezSportista' value="{{k.nazivSporta}}-{{k.nazivDiscipline}}-{{k.pol}}">{{k.nazivSporta}} - {{k.nazivDiscipline}} / {{k.pol}} pol</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button  mat-stroked-button color="primary" (click)="formirajTakmicenje()">Dodaj sportiste</button>
+                    </td>
+                </tr>
+            </table>
+            <div class="mat-body-2" style="color: red;" *ngIf="takmicenjaBezSportista?.length == 0">Nema novo kreiranih takmicenja</div>
+        </form>
+        </mat-expansion-panel>
+    </mat-accordion>
+
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Dodavanje delegata za takmicenje</div>
+            </mat-expansion-panel-header>       
+        
+        <form>
+            <table>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select name="sport" placeholder="Odaberite sportsku disciplinu" required [(ngModel)]="sportIdisciplinaDelegat">
+                                <mat-option *ngFor='let s of kreiranaTakmicenja' value="{{s.nazivSporta}}-{{s.nazivDiscipline}}-{{s.pol}}">{{s.nazivSporta}} - {{s.nazivDiscipline}} / {{s.pol}} pol</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select name="delegat" placeholder="Odaberite delegata" required [(ngModel)]="usernameDelegata">
+                                <mat-option *ngFor="let d of delegati" value="{{d.kor_ime}}">{{d.kor_ime}}</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button mat-stroked-button color="primary" (click)="dodajDelegata()">Dodaj delegata</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+
+        </mat-expansion-panel>
+    </mat-accordion>
+
+
+
+</mat-card>
+
+
+
+
+<br><br><br>
+<button mat-raised-button color="primary" class="dugme" (click)="izlogujSe()">Logout</button>

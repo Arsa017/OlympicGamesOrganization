@@ -1,0 +1,38 @@
+mat-card {
+    width: 80%;
+    margin: auto;
+    margin-top: 5rem;
+    background-color: lightgray;
+}
+
+
+
+div {
+    margin: auto;
+}
+
+mat-accordion {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+:host {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+table {
+    margin: auto;
+    border: blue;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.dugme{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}

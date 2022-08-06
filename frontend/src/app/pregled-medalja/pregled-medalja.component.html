@@ -1,0 +1,43 @@
+<mat-card>
+    <table id="tabela">
+
+        <tr>
+            <th class="mat-h1" style="text-align: center;">Rang</th>
+            <th class="mat-h1" style="text-align: center;">Zemlja</th>
+            <th class="mat-h1" style="text-align: center;">Zlatne medalje</th>
+            <th class="mat-h1" style="text-align: center;">Srebrne medalje</th>
+            <th class="mat-h1" style="text-align: center;">Bronzane medalje</th>
+            <th class="mat-h1" style="text-align: center;">Ukupno</th>
+        </tr>
+        <tr *ngFor="let s of nizZemlje; let i = index">
+            <td class="mat-h1" style="text-align: center;">
+                {{i+1 + (trenutnaStranica-1)*drzavePoStranici}}.
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{s.naziv}}
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{s.brZlatnihMedalja}}
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{s.brSrebrnihMedalja}}
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{s.brBronzanihMedalja}}
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{s.ukBrMedalja}}
+            </td>
+        </tr>
+    </table>
+
+    <mat-paginator [length]="totalDrzave" [pageSize]="drzavePoStranici" 
+    [pageSizeOptions]="pageSizeOptions" (page)="onChangedPage($event)"></mat-paginator>
+
+</mat-card>
+
+
+
+<br><br><br>
+<button mat-raised-button color="primary" class="dugme" (click)="nazad()">Nazad</button>
+<br><br><br>

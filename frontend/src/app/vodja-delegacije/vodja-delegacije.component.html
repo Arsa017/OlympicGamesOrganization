@@ -1,0 +1,57 @@
+
+<mat-card>
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Prijava pojedinaca za takmicenje</div>
+            </mat-expansion-panel-header>       
+        <form>
+            <table>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <input matInput type="text" name="ime" placeholder="Unesite ime sportiste" required [(ngModel)]="ime">
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <input matInput type="text" name="prezime" placeholder="Unesite prezime sportiste" required [(ngModel)]="prezime">
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select name="pol" placeholder="Odaberite pol" [(ngModel)]="pol" required>
+                                <mat-option value="muski">Muski</mat-option>
+                                <mat-option value="zenski">Zenski</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <mat-form-field>
+                            <mat-select name="sport" placeholder="Odaberite sportsku disciplinu" required [(ngModel)]="sportIdisciplina">
+                                <mat-option *ngFor='let s of sportovi' value="{{s.nazivSporta}}-{{s.nazivDiscipline}}">{{s.nazivSporta}} - {{s.nazivDiscipline}}</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <td>                        
+                        <button mat-stroked-button color="primary" (click)="unesiSportistu()">Prijavi</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+        </mat-expansion-panel>
+    </mat-accordion>
+
+</mat-card>
+
+
+<br><br><br>
+<button mat-raised-button color="primary" class="dugme" (click)="izlogujSe()">Logout</button>

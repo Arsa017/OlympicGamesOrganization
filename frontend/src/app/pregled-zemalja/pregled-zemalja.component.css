@@ -1,0 +1,57 @@
+mat-card {
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+}
+
+div {
+    margin: auto;
+}
+
+.dugme{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+table {
+    margin: auto;
+    border: blue;
+    width: 35%;
+    background-color: lightgray;
+}
+
+.slika {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5px;
+}
+
+
+mat-paginator {
+    margin-top: 1rem;
+}
+
+#tabela {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  #tabela td, #tabela th {
+    border: 1px solid #ddd;
+    padding: 6px;
+  }
+  
+  #tabela tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #tabela tr:hover {background-color: #ddd;}
+  
+  #tabela th {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: left;
+    background-color: #3F51B5;
+    color: white;
+  }

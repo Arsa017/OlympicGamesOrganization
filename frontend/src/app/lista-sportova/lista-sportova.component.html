@@ -1,0 +1,24 @@
+<mat-card>
+    <mat-accordion multi="true" >
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h2">Pregled dodatih sportova i sportskih disciplina</div>
+            </mat-expansion-panel-header>       
+            <table id="tabela">
+                <tr>
+                    <th class="mat-h4" style="text-align: center;">Sport</th>
+                    <th class="mat-h4" style="text-align: center;">Sportska disciplina</th>
+                    <th class="mat-h4" style="text-align: center;">Vrsta</th>
+                </tr>
+                <tr *ngFor = "let s of sportovi">
+                    <td class="mat-body-2" style="text-align: center;">{{s.nazivSporta}}</td>
+                    <td class="mat-body-2" style="text-align: center;">{{s.nazivDiscipline}}</td>
+                    <td class="mat-body-2" style="text-align: center;">{{s.vrstaSporta}}</td>
+                </tr>
+            </table>
+        </mat-expansion-panel>
+    </mat-accordion>
+</mat-card>
+
+<br><br><br>
+<button mat-raised-button color="primary" class="dugme" (click)="nazad()">Nazad</button>

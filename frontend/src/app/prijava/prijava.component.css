@@ -1,0 +1,26 @@
+mat-card {
+    width: 80%;
+    margin: auto;
+    margin-top: 5rem;
+    background-color: lightgray;
+}
+
+div {
+    margin: auto;
+}
+
+:host {
+    margin-top: 1rem;
+    display: block;
+}
+
+table {
+    margin: auto;
+}
+
+.dugme{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+

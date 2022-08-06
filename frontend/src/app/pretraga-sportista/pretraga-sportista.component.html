@@ -1,0 +1,111 @@
+<mat-card id="prvi">
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Pretraga sportista</div>
+            </mat-expansion-panel-header>
+
+            <form>
+                <table>
+                    <tr>
+                        <td>
+                            <mat-form-field>
+                                <input matInput type="text" placeholder="Ime i prezime" name="imeIprezime"
+                                    [(ngModel)]="imeIprezime">
+                            </mat-form-field>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <mat-form-field>
+                                <mat-select name="zemlja" placeholder="Sve zemlje" [(ngModel)]="nazivZemlje">
+                                    <mat-option *ngFor="let s of sveZemlje" value="{{s.naziv}}">{{s.naziv}}</mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <mat-form-field>
+                                <mat-select name="sportovi" placeholder="Svi sportovi" [(ngModel)]="nazivSporta">
+                                    <mat-option *ngFor="let s of razlicitiSportovi; let i = index"
+                                        value="{{razlicitiSportovi[i]}}">{{razlicitiSportovi[i]}}</mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <mat-form-field>
+                                <mat-select name="discipline" placeholder="Sve sportske discipline"
+                                    [(ngModel)]="nazivDiscipline">
+                                    <mat-option *ngFor="let d of razliciteDiscipline; let i = index"
+                                        value="{{razliciteDiscipline[i]}}">{{razliciteDiscipline[i]}}</mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div style="color: #C0C0C0;">Pol:</div>
+                            <mat-radio-group name="pol" [(ngModel)]="pol">
+                                <mat-radio-button value="muski">M</mat-radio-button>
+                                <mat-radio-button value="zenski">Z</mat-radio-button>
+                            </mat-radio-group>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <section class="example-section">
+                                <mat-checkbox class="example-margin" name="osvajaci" [(ngModel)]="flegOsvajacMedalje">
+                                    <div style="color: #C0C0C0;">samo osvajaci medalja</div>
+                                </mat-checkbox>
+                            </section>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button mat-stroked-button color="primary" class="dugme"
+                                (click)="pretrazi()">Pretrazi</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+
+        </mat-expansion-panel>
+    </mat-accordion>
+</mat-card>
+
+<mat-card>
+    <table *ngIf="sportisti" id="tabela">
+        <tr>
+            <th class="mat-h1" style="text-align: center;">Ime</th>
+            <th class="mat-h1" style="text-align: center;">Prezime</th>
+            <th class="mat-h1" style="text-align: center;">Zemlja</th>
+            <th class="mat-h1" style="text-align: center;">Sport</th>
+        </tr>
+        <tr *ngFor="let s of nizSportista">
+            <td class="mat-h1" style="text-align: center;">
+                {{s.ime}}
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{s.prezime}}
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{s.nacionalnost}}
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{s.nazivSporta}}
+            </td>
+        </tr>
+    </table>
+    <div class="mat-body-2" *ngIf="!sportisti">Pretrazite sportiste</div>
+
+    <mat-paginator *ngIf="sportisti" [length]="ukupnoSportista" [pageSize]="sportistiPoStranici" 
+    [pageSizeOptions]="pageSizeOptions" (page)="onChangedPage($event)"></mat-paginator>
+
+</mat-card>
+
+<br><br><br>
+<button mat-raised-button color="primary" class="dugme" (click)="nazad()">Nazad</button>
+<br><br><br>

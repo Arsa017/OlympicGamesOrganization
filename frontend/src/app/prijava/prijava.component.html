@@ -1,0 +1,156 @@
+<mat-card>
+
+<mat-accordion multi="true">
+    <mat-expansion-panel>
+        <mat-expansion-panel-header>
+            <div class="mat-h1">Prijava korisnika</div>
+        </mat-expansion-panel-header>
+<form>
+        <table>
+            <tr>
+                <td class="mat-body-2">Korisnicko ime</td>   
+                <mat-form-field>
+                    <td><input matInput type="text" name="korIme" required [(ngModel)]="korisnickoIme" placeholder="Unesite korisnicko ime"></td>
+                </mat-form-field>                               
+            </tr>
+            <tr>
+                <td class="mat-body-2">Lozinka</td>
+                <mat-form-field>
+                    <td><input matInput type="password" name="lozinka" required [(ngModel)]="lozinka" placeholder="Unesite lozinku"></td>
+                </mat-form-field>
+            </tr>
+            <tr>
+                <div class="mat-body-2" *ngIf="errorMessage" style="color: red">{{errorMessage}}</div>
+            </tr>
+            <tr>
+             <!--  <td>
+                    <button mat-raised-button color="accent" (click)="prijava()">Prijavi se</button>
+                </td> -->
+            </tr>
+        </table>
+        <button class="dugme" mat-raised-button color="accent" (click)="prijava()">Prijavi se</button>
+</form>
+    </mat-expansion-panel>
+    <mat-expansion-panel>
+        <mat-expansion-panel-header>
+            <div class="mat-h1">Registracija korisnika</div>
+        </mat-expansion-panel-header>
+
+        <form (submit)="registracija(registracijaForm)" #registracijaForm="ngForm">
+            <table>
+                <tr>
+                    <td class="mat-body-2">Korisnicko ime</td>
+                    <td>             
+                        <mat-form-field>                                 
+                            <input matInput type="text" name="kor_ime" ngModel placeholder="Korisnicko ime" required>      
+                        </mat-form-field>                                          
+                    </td>
+                </tr>
+                <tr>
+                    <td class="mat-body-2">Lozinka</td>
+                    <mat-form-field>
+                        <td><input matInput type="password" pattern="^(?!.*(.)\1\1\1)(?=[a-zA-z])(?=(.*\d){2,})(?=(.*[a-z]){3,})(?=.*[A-Z])(?=(.*[^\w\d\s]){2,}).{8,12}$"
+                            name="lozinkaReg" ngModel placeholder="Lozinka" required></td>
+                    </mat-form-field>
+                </tr>
+                <tr>
+                    <td class="mat-body-2">Potvrda loznike</td>
+                    <mat-form-field>
+                        <td><input matInput placeholder="Ponovite lozinku" required type="password" 
+                            pattern="^(?!.*(.)\1\1\1)(?=[a-zA-z])(?=(.*\d){2,})(?=(.*[a-z]){3,})(?=.*[A-Z])(?=(.*[^\w\d\s]){2,}).{8,12}$"
+                            name="potvrdaLozinke" ngModel></td>
+                    </mat-form-field>   
+                </tr>
+                <tr>
+                    <td class="mat-body-2">Ime</td>
+                    <mat-form-field>
+                        <td><input matInput placeholder="Ime" required type="text" name="ime" ngModel></td>
+                    </mat-form-field>
+                </tr>
+                <tr>
+                    <td class="mat-body-2">Prezime</td>
+                    <mat-form-field>
+                        <td><input matInput placeholder="Prezime" required type="text" name="prezime" ngModel></td>
+                    </mat-form-field>
+                </tr>
+                <tr>
+                    <td class="mat-body-2">Zemlja</td>
+                    <mat-form-field>
+                        <td><input matInput placeholder="Zemlja" required type="text" name="nacionalnost" ngModel></td>
+                    </mat-form-field>
+                </tr>
+                <tr>
+                    <td class="mat-body-2">Email</td>
+                    <mat-form-field>                    
+                        <td><input matInput type="email" required pattern="[a-zA-Z0-9.-_]{1,}@[a-zA-Z.-]{2,}[.]{1}[a-zA-Z]{2,}" 
+                            placeholder="path@example.com" name="email" ngModel #emailPor="ngModel"></td>
+                    </mat-form-field>                   
+                </tr>
+                <tr>
+                    <td class="mat-body-2">Tip korisnika</td>
+                    <td>
+                        <mat-form-field>
+                            <mat-select name="tip" placeholder="Odaberite tip" ngModel required>
+                           <!--     <mat-option value="" disabled selected hidden>Odaberite tip</mat-option> -->
+                                <mat-option value="organizator">Organizator</mat-option>
+                                <mat-option value="delegat">Delegat</mat-option>
+                                <mat-option value="vodja">Vodja delegacije</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                </tr>
+                <tr>
+                    <div class="mat-body-2" style="color: red;" *ngIf="regPoruka">{{regPoruka}}</div>
+                </tr>
+              <!--  <tr>
+                    <button mat-raised-button color="primary" type="submit">Registruj se</button>
+                </tr> -->
+            </table>
+            <button class="dugme" mat-raised-button color="primary" type="submit">Registruj se</button>
+        </form>
+
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+        <mat-expansion-panel-header>
+            <div class="mat-h1">Promena lozinke</div>
+        </mat-expansion-panel-header>
+<form (submit)="promenaLozinke(promenaLozinkeForma)" #promenaLozinkeForma="ngForm">
+        <table>
+            <tr>
+                <td class="mat-body-2">Korisnicko ime</td>   
+                <mat-form-field>
+                    <td><input matInput type="text" name="korIme" required ngModel placeholder="Unesite korisnicko ime"></td>
+                </mat-form-field>                               
+            </tr>
+            <tr>
+                <td class="mat-body-2">Stara lozinka</td>
+                <mat-form-field>
+                    <td><input matInput type="password" name="staraLozinka" required 
+                        pattern="^(?!.*(.)\1\1\1)(?=[a-zA-z])(?=(.*\d){2,})(?=(.*[a-z]){3,})(?=.*[A-Z])(?=(.*[^\w\d\s]){2,}).{8,12}$"
+                        ngModel placeholder="Unesite lozinku"></td>
+                </mat-form-field>
+            </tr>
+            <tr>
+                <td class="mat-body-2">Nova lozinka</td>
+                <mat-form-field>
+                    <td><input matInput type="password"  name="novaLozinka" required 
+                        pattern="^(?!.*(.)\1\1\1)(?=[a-zA-z])(?=(.*\d){2,})(?=(.*[a-z]){3,})(?=.*[A-Z])(?=(.*[^\w\d\s]){2,}).{8,12}$"
+                        ngModel placeholder="Unesite lozinku"></td>
+                </mat-form-field>
+        <!--    </tr>
+            <tr>
+                <td>
+                    <button class="dugme" mat-raised-button color="accent" type="submit">Promeni</button>
+                </td>
+            </tr> -->
+        </table>
+        <button class="dugme" mat-raised-button color="accent" type="submit">Promeni</button>
+</form>
+    </mat-expansion-panel>
+</mat-accordion>
+
+</mat-card>
+<br><br><br>
+<button mat-raised-button color="primary" class="dugme" (click)="pocetna()">Pocetna</button>
+

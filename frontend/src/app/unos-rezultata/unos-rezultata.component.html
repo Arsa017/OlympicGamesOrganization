@@ -1,0 +1,263 @@
+<mat-card *ngIf="vrstaTabele == 1">
+    <div class="mat-h1" style="font-weight: bolder;">{{nazivSporta}} - {{nazivDiscipline}}</div>
+    <div class="mat-h1" style="font-weight: bolder;">Unesite rezultate finala u formi {{unosRezultata}}</div>
+    <br>
+
+    <table id="tabela" *ngIf="vrstaTabele == 1">
+        <tr>
+            <th style="width: 70px;  text-align: center;">Ime</th>
+            <th style="width: 70px;  text-align: center;">Prezime</th>
+            <th style="width: 60px;  text-align: center;">Nacionalnost</th>
+            <th style="width: 10px;  text-align: center;">Rezultat</th>
+            <th style="width: 40px;  text-align: center;">Novo kolo</th>
+            <th style="width: 40px; text-align: center;">Zlato</th>
+            <th style="width: 40px; text-align: center;">Srebro</th>
+            <th style="width: 40px; text-align: center;">Bronza</th>
+        </tr>
+        <tr *ngFor="let f of grupa.finalisti">
+            <td class="mat-body-2" style="text-align: center;">{{f.ime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.prezime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.nacionalnost}}</td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez1">
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.novoKolo">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.zlato">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.srebro">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.bronza">
+                </mat-checkbox>
+            </td>
+    </table>
+    <br>
+
+</mat-card>
+
+<mat-card *ngIf="vrstaTabele == 3 && nazivSporta!= 'Tenis' ">
+    <div class="mat-h1" style="font-weight: bolder;">{{nazivSporta}} - {{nazivDiscipline}}</div>
+    <div class="mat-h1" style="font-weight: bolder;">Unesite rezultate finala u formi {{unosRezultata}}</div>
+    <br>
+
+    <table id="tabela" *ngIf="vrstaTabele == 3 && nazivSporta!= 'Tenis'">
+        <tr>
+            <th style="width: 70px;  text-align: center;">Ime</th>
+            <th style="width: 70px;  text-align: center;">Prezime</th>
+            <th style="width: 60px;  text-align: center;">Nacionalnost</th>
+            <th style="width: 10px;  text-align: center;">1. krug</th>
+            <th style="width: 10px;  text-align: center;">2. krug</th>
+            <th style="width: 10px;  text-align: center;">3. krug</th>
+            <th style="width: 40px;  text-align: center;">Novo kolo</th>
+            <th style="width: 40px; text-align: center;">Zlato</th>
+            <th style="width: 40px; text-align: center;">Srebro</th>
+            <th style="width: 40px; text-align: center;">Bronza</th>
+        </tr>
+        <tr *ngFor="let f of grupa.finalisti">
+            <td class="mat-body-2" style="text-align: center;">{{f.ime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.prezime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.nacionalnost}}</td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez1">
+            </td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez2">
+            </td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez3">
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.novoKolo">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.zlato">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.srebro">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.bronza">
+                </mat-checkbox>
+            </td>
+    </table>
+    <br>
+
+</mat-card>
+
+<mat-card *ngIf="vrstaTabele == 6">
+    <div class="mat-h1" style="font-weight: bolder;">{{nazivSporta}} - {{nazivDiscipline}}</div>
+    <div class="mat-h1" style="font-weight: bolder;">Unesite rezultate finala u formi {{unosRezultata}}</div>
+    <br>
+
+    <table id="tabela" *ngIf="vrstaTabele == 6">
+        <tr>
+            <th style="width: 70px;  text-align: center;">Ime</th>
+            <th style="width: 70px;  text-align: center;">Prezime</th>
+            <th style="width: 60px;  text-align: center;">Nacionalnost</th>
+            <th style="width: 10px;  text-align: center;">1. krug</th>
+            <th style="width: 10px;  text-align: center;">2. krug</th>
+            <th style="width: 10px;  text-align: center;">3. krug</th>
+            <th style="width: 10px;  text-align: center;">4. krug</th>
+            <th style="width: 10px;  text-align: center;">5. krug</th>
+            <th style="width: 10px;  text-align: center;">6. krug</th>
+            <th style="width: 40px;  text-align: center;">Novo kolo</th>
+            <th style="width: 40px; text-align: center;">Zlato</th>
+            <th style="width: 40px; text-align: center;">Srebro</th>
+            <th style="width: 40px; text-align: center;">Bronza</th>
+        </tr>
+        <tr *ngFor="let f of grupa.finalisti">
+            <td class="mat-body-2" style="text-align: center;">{{f.ime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.prezime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.nacionalnost}}</td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez1">
+            </td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez2">
+            </td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez3">
+            </td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez4">
+            </td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez5">
+            </td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez6">
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.novoKolo">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.zlato">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.srebro">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.bronza">
+                </mat-checkbox>
+            </td>
+    </table>
+    <br>
+
+</mat-card>
+
+<mat-card *ngIf="vrstaTabele == 3 && nazivSporta == 'Tenis' ">
+    <div class="mat-h1" style="font-weight: bolder;">{{nazivSporta}} - {{nazivDiscipline}}</div>
+    <div class="mat-h1" style="font-weight: bolder;">Unesite rezultate finala u formi {{unosRezultata}}</div>
+    <br>
+
+    <table id="tabela" *ngIf="vrstaTabele == 3 && nazivSporta == 'Tenis'">
+        <tr>
+            <th style="width: 70px;  text-align: center;">Ime</th>
+            <th style="width: 70px;  text-align: center;">Prezime</th>
+            <th style="width: 60px;  text-align: center;">Nacionalnost</th>
+            <th style="width: 10px;  text-align: center;">1. set</th>
+            <th style="width: 10px;  text-align: center;">2. set</th>
+            <th style="width: 10px;  text-align: center;">3. set</th>
+            <th style="width: 40px; text-align: center;">Zlato</th>
+            <th style="width: 40px; text-align: center;">Srebro</th>
+            <th style="width: 40px; text-align: center;">Bronza</th>
+        </tr>
+        <tr *ngFor="let f of grupa.finalisti">
+            <td class="mat-body-2" style="text-align: center;">{{f.ime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.prezime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.nacionalnost}}</td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez1">
+            </td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez2">
+            </td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rez3">
+            </td>
+            
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.zlato">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.srebro">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.bronza">
+                </mat-checkbox>
+            </td>
+    </table>
+    <br>
+
+</mat-card>
+
+
+<mat-card *ngIf="flegNoviKrug == 1 ">
+    <div class="mat-h1" style="font-weight: bolder;">Unesite rezultate novog kruga u formi {{unosRezultata}}</div>
+    <br>
+    <table id="tabela" *ngIf="flegNoviKrug == 1 " >
+        <tr>
+            <th style="width: 70px;  text-align: center;">Ime</th>
+            <th style="width: 70px;  text-align: center;">Prezime</th>
+            <th style="width: 60px;  text-align: center;">Nacionalnost</th>
+            <th style="width: 10px;  text-align: center;">Rezultat</th>
+
+            <th style="width: 40px; text-align: center;">Zlato</th>
+            <th style="width: 40px; text-align: center;">Srebro</th>
+            <th style="width: 40px; text-align: center;">Bronza</th>
+        </tr>
+        <tr *ngFor="let f of sportistiNoviKrug">
+            <td class="mat-body-2" style="text-align: center;">{{f.ime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.prezime}}</td>
+            <td class="mat-body-2" style="text-align: center;">{{f.nacionalnost}}</td>
+            <td>
+                <input class="kolona" style="width: 50px; text-align: center;" type="text" [(ngModel)]="f.rezNoviKrug">
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.zlato">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.srebro">
+                </mat-checkbox>
+            </td>
+            <td>
+                <mat-checkbox color="primary" class="finalista" name="finalisti" [(ngModel)]="f.bronza">
+                </mat-checkbox>
+            </td>
+    </table>
+
+</mat-card>
+
+<br><br><br>
+
+<table id="mojaTabela">
+    <tr>
+        <td>
+            <button mat-stroked-button color="primary" class="dugme" (click)="noviKrug()">Novi krug</button> 
+        </td>
+        <td><button mat-stroked-button color="primary" class="dugme" (click)="dodeliMedalje()">Dodeli medalje</button>
+        </td>
+    </tr>
+</table>
+
+<br><br><br>
+
+
+<button mat-raised-button color="primary" class="dugme" (click)="nazad()">Nazad</button>
+<br><br><br>

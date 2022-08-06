@@ -1,0 +1,30 @@
+<mat-card>
+    <table id="tabela">
+        <tr>
+            <th class="mat-h1" style="text-align: center;">Zastava zemlje</th>
+            <th class="mat-h1" style="text-align: center;">Ime zemlje</th>
+            <th class="mat-h1" style="text-align: center;">Broj sportista</th>
+        </tr>
+        <tr *ngFor="let z of zemlje">
+            <td class="slika">
+                <img width="80px" height="60px" src="assets/{{z.naziv}}.gif">
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{z.naziv}}
+            </td>
+            <td class="mat-h1" style="text-align: center;">
+                {{z.ukBrSportista}}
+            </td>
+        </tr>
+    </table>
+
+    <mat-paginator [length]="totalDrzave" [pageSize]="drzavePoStranici" [pageSizeOptions]="pageSizeOptions"
+        (page)="onChangedPage($event)"></mat-paginator>
+
+</mat-card>
+
+
+
+<br><br><br>
+<button mat-raised-button color="primary" class="dugme" (click)="nazad()">Nazad</button>
+<br><br><br>

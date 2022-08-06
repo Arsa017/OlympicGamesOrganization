@@ -1,0 +1,53 @@
+
+<mat-card>
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Pregled zemalja ucesnica</div>
+            </mat-expansion-panel-header>
+            <table>
+                <tr>
+                    <td>
+                        Idi na <a routerLink="/pregled-zemalja">pregled zemalja</a>
+                    </td>
+                </tr>
+            </table>           
+        </mat-expansion-panel>
+    </mat-accordion>
+
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Pregled osvojenih medalja</div>
+            </mat-expansion-panel-header>
+            <table>
+                <tr>
+                    <td>
+                        Idi na <a routerLink="/pregled-medalja">pregled medalja</a>
+                    </td>
+                </tr>
+            </table>    
+        </mat-expansion-panel>
+    </mat-accordion>
+
+
+    <mat-accordion multi="true">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <div class="mat-h1">Pretraga sportista ucesnika olimpijade</div>
+            </mat-expansion-panel-header>
+            <table>
+                <tr>
+                    <td>
+                        Idi na <a routerLink="/pretraga-sportista">pretragu sportista</a>
+                    </td>
+                </tr>
+            </table>  
+        </mat-expansion-panel>
+    </mat-accordion>
+
+</mat-card>
+
+
+<br><br><br>
+<button mat-raised-button color="primary" class="dugme" (click)="pocetna()">Pocetna</button>
