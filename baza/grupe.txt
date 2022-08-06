@@ -1,0 +1,432 @@
+
+{
+    "_id" : ObjectId("6130ff4a93ed8d3408ce8e29"),
+    "finalisti" : [ 
+        {
+            "ime" : "FrancuzT1",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "KinezT1",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "ItalijanT1",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "NemacT1",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RusT1",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikanacT1",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SpanacT1",
+            "prezime" : "Spanic",
+            "nacionalnost" : "Spanija"
+        }, 
+        {
+            "ime" : "SrbinT1",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "100 metara trcanje",
+    "pol" : "muski",
+    "format" : "ss:tt-pokusaj:1",
+    "boljiRezultat" : -1,
+    "grupaKreirana" : true,
+    "medaljeDodeljene" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ff7893ed8d3408ce8e2a"),
+    "finalisti" : [ 
+        {
+            "ime" : "BelgijankaT1",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "EngleskinjaT13",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "ItalijankaT1",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "Kineskinja",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "RuskinjaT1",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "SrpkinjaT1",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }, 
+        {
+            "ime" : "Francuskinja",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "HolandjankaT2",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }
+    ],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "100 metara trcanje",
+    "pol" : "zenski",
+    "format" : "ss:tt-pokusaj:1",
+    "boljiRezultat" : -1,
+    "grupaKreirana" : true,
+    "medaljeDodeljene" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ff9c93ed8d3408ce8e2b"),
+    "finalisti" : [ 
+        {
+            "ime" : "ArgentinacT2",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "HolandjaninT2",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "EnglezT4",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "ItalijanT4",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "AmerikanacT1",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "GrkT2",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "Turcin",
+            "prezime" : "Turkic",
+            "nacionalnost" : "Turska"
+        }, 
+        {
+            "ime" : "SrbinT2",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "skok u vis",
+    "pol" : "muski",
+    "format" : "m:cm-pokusaj:3",
+    "boljiRezultat" : 1,
+    "grupaKreirana" : true,
+    "medaljeDodeljene" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("613102ea93ed8d3408ce8e2c"),
+    "finalisti" : [ 
+        {
+            "ime" : "ArgentinacT7",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BrazilacT5",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "EgipcaninT6",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "GrkT6",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "IndijacT3",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "KinezT3",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "AmerikanacT2",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SrbinT4",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "nazivSporta" : "Plivanje",
+    "nazivDiscipline" : "100m leptir",
+    "pol" : "muski",
+    "format" : "ss:tt-pokusaj:1",
+    "boljiRezultat" : -1,
+    "grupaKreirana" : true,
+    "medaljeDodeljene" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6131037f93ed8d3408ce8e2d"),
+    "finalisti" : [ 
+        {
+            "ime" : "ArgentinacT8",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BrazilacT6",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "FrancuzT9",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "HolandjaninT4",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "ItalijanT9",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanacT10",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "RusT5",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "SrbinT5",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "nazivSporta" : "Streljastvo",
+    "nazivDiscipline" : "50m trostav",
+    "pol" : "muski",
+    "format" : "streljastvo-pokusaj:6",
+    "boljiRezultat" : 1,
+    "grupaKreirana" : true,
+    "medaljeDodeljene" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6131043e93ed8d3408ce8e2e"),
+    "finalisti" : [ 
+        {
+            "ime" : "IndijkaT4",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "JapanicT2",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "ItalijankaT8",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "NemicaT5",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RuskinjaT5",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikankaT3",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SpanjolkaT3",
+            "prezime" : "Spanic",
+            "nacionalnost" : "Spanija"
+        }, 
+        {
+            "ime" : "SrpkinjaT3",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "nazivSporta" : "Streljastvo",
+    "nazivDiscipline" : "50m trostav",
+    "pol" : "zenski",
+    "format" : "streljastvo-pokusaj:6",
+    "boljiRezultat" : 1,
+    "grupaKreirana" : true,
+    "medaljeDodeljene" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("613105d793ed8d3408ce8e37"),
+    "finalisti" : [ 
+        {
+            "ime" : "ArgentinkaT7",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BelgijankaT6",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "Engleskinja",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "FrancuskinjaT13",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkinjaT4",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "BrazilkaT1",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "RuskinjaT6",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikankaT4",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }
+    ],
+    "nazivSporta" : "Tenis",
+    "nazivDiscipline" : "singl",
+    "pol" : "zenski",
+    "format" : "tenis-maxSetovi:3",
+    "boljiRezultat" : 1,
+    "grupaKreirana" : true,
+    "medaljeDodeljene" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6131091293ed8d3408ce8e3a"),
+    "finalisti" : [ 
+        {
+            "ime" : "HolandjankaT3",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "ItalijankaT3",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "IndijkaT1",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "KineskinjaT2",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "JapanicT5",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "NemicaT2",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "AmerikankaT1",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SrpkinjaT2",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "skok u dalj",
+    "pol" : "zenski",
+    "format" : "m:cm-pokusaj:3",
+    "boljiRezultat" : 1,
+    "grupaKreirana" : true,
+    "medaljeDodeljene" : true,
+    "__v" : 0
+}

@@ -1,0 +1,4792 @@
+
+{
+    "_id" : ObjectId("6130ec3f93ed8d3408ce8d35"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "ArgentinacT1",
+    "prezime" : "Argentinic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130ec5493ed8d3408ce8d36"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }
+    ],
+    "ime" : "ArgentinacT2",
+    "prezime" : "Argentinic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ec6393ed8d3408ce8d37"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "ArgentinacT4",
+    "prezime" : "Argentinic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ec7393ed8d3408ce8d38"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "ArgentinacT5",
+    "prezime" : "Argentinic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ec7993ed8d3408ce8d39"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "ArgentinacT6",
+    "prezime" : "Argentinic",
+    "pol" : "muski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ec8c93ed8d3408ce8d3a"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "ArgentinacT7",
+    "prezime" : "Argentinic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ec9593ed8d3408ce8d3b"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }
+    ],
+    "ime" : "ArgentinacT8",
+    "prezime" : "Argentinic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ec9e93ed8d3408ce8d3c"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "ArgentinacT9",
+    "prezime" : "Argentinic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ecc093ed8d3408ce8d3d"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "Argentinka",
+    "prezime" : "Argentinic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ecd393ed8d3408ce8d3e"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }
+    ],
+    "ime" : "ArgentinkaT2",
+    "prezime" : "Argentinic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ece193ed8d3408ce8d3f"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "ArgentinkaT3",
+    "prezime" : "Argentinic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ecf493ed8d3408ce8d40"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "ArgentinkaT4",
+    "prezime" : "Argentinic",
+    "pol" : "zenski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ecfa93ed8d3408ce8d41"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "ArgentinkaT5",
+    "prezime" : "Argentinic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ed0393ed8d3408ce8d42"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "ArgentinkaT6",
+    "prezime" : "Argentinic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ed1093ed8d3408ce8d43"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "ArgentinkaT7",
+    "prezime" : "Argentinic",
+    "pol" : "zenski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Argentina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ed5393ed8d3408ce8d44"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }
+    ],
+    "ime" : "BelgijanacT1",
+    "prezime" : "Belgijic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ed6093ed8d3408ce8d45"),
+    "discipline" : [ 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }
+    ],
+    "ime" : "BelgijanacT2",
+    "prezime" : "Belgijic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ed7193ed8d3408ce8d46"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "BelgijanacT3",
+    "prezime" : "Belgijic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ed8393ed8d3408ce8d47"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "BelgijanacT4",
+    "prezime" : "Belgijic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ed8b93ed8d3408ce8d48"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "BelgijanacT6",
+    "prezime" : "Belgijic",
+    "pol" : "muski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ed9493ed8d3408ce8d49"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "BelgijanacT7",
+    "prezime" : "Belgijic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ed9d93ed8d3408ce8d4a"),
+    "discipline" : [ 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "BelgijanacT8",
+    "prezime" : "Belgijic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eda493ed8d3408ce8d4b"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "BelgijanacT9",
+    "prezime" : "Belgijic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130edb493ed8d3408ce8d4c"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "BelgijanacT10",
+    "prezime" : "Belgijic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130edca93ed8d3408ce8d4d"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }
+    ],
+    "ime" : "BelgijankaT1",
+    "prezime" : "Belgijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130edd993ed8d3408ce8d4e"),
+    "discipline" : [ 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }
+    ],
+    "ime" : "BelgijankaT2",
+    "prezime" : "Belgijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ede593ed8d3408ce8d4f"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "maraton"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "BelgijankaT3",
+    "prezime" : "Belgijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee0693ed8d3408ce8d50"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "BelgijankaT4",
+    "prezime" : "Belgijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee0f93ed8d3408ce8d51"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "BelgijankaT5",
+    "prezime" : "Belgijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee1c93ed8d3408ce8d52"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "BelgijankaT6",
+    "prezime" : "Belgijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Belgija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee4393ed8d3408ce8d53"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }
+    ],
+    "ime" : "BrazilacT1",
+    "prezime" : "Brazilklic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee5e93ed8d3408ce8d54"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }
+    ],
+    "ime" : "BrazilacT2",
+    "prezime" : "Brazilklic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee6693ed8d3408ce8d55"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "BrazilacT3",
+    "prezime" : "Brazilklic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee6f93ed8d3408ce8d56"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "BrazilacT4",
+    "prezime" : "Brazilklic",
+    "pol" : "muski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee7593ed8d3408ce8d57"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "BrazilacT5",
+    "prezime" : "Brazilklic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee7d93ed8d3408ce8d58"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "BrazilacT6",
+    "prezime" : "Brazilklic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee8693ed8d3408ce8d59"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "BrazilacT7",
+    "prezime" : "Brazilklic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ee8c93ed8d3408ce8d5a"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "BrazilacT8",
+    "prezime" : "Brazilklic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eea893ed8d3408ce8d5b"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "BrazilkaT1",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eeac93ed8d3408ce8d5c"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "BrazilkaT2",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eeb493ed8d3408ce8d5d"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }
+    ],
+    "ime" : "BrazilkaT3",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eeb893ed8d3408ce8d5e"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }
+    ],
+    "ime" : "BrazilkaT4",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eebc93ed8d3408ce8d5f"),
+    "discipline" : [ 
+        {
+            "disciplina" : "200m slobodno"
+        }, 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "BrazilkaT5",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eec793ed8d3408ce8d60"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "BrazilkaT6",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eecc93ed8d3408ce8d61"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje koplja"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }
+    ],
+    "ime" : "BrazilkaT7",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eed893ed8d3408ce8d62"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }
+    ],
+    "ime" : "BrazilkaT8",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eee593ed8d3408ce8d63"),
+    "discipline" : [ 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }
+    ],
+    "ime" : "BrazilkaT9",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eeee93ed8d3408ce8d64"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }
+    ],
+    "ime" : "BrazilkaT10",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eef793ed8d3408ce8d65"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "BrazilkaT11",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ef0293ed8d3408ce8d66"),
+    "discipline" : [ 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "BrazilkaT12",
+    "prezime" : "Brazilklic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Brazil",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130ef2d93ed8d3408ce8d67"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "EgipcaninT1",
+    "prezime" : "Egipic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ef3693ed8d3408ce8d68"),
+    "discipline" : [ 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }
+    ],
+    "ime" : "EgipcaninT2",
+    "prezime" : "Egipic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ef4293ed8d3408ce8d69"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }
+    ],
+    "ime" : "EgipcaninT3",
+    "prezime" : "Egipic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ef5193ed8d3408ce8d6a"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kladiva"
+        }
+    ],
+    "ime" : "EgipcaninT4",
+    "prezime" : "Egipic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ef5893ed8d3408ce8d6b"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "EgipcaninT5",
+    "prezime" : "Egipic",
+    "pol" : "muski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ef5e93ed8d3408ce8d6c"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "EgipcaninT6",
+    "prezime" : "Egipic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ef6693ed8d3408ce8d6d"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "EgipcaninT7",
+    "prezime" : "Egipic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130ef7e93ed8d3408ce8d6e"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "EgipcankaT1",
+    "prezime" : "Egipic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ef8d93ed8d3408ce8d6f"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "maraton"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "EgipcankaT2",
+    "prezime" : "Egipic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130efb293ed8d3408ce8d70"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "EgipcankaT3",
+    "prezime" : "Egipic",
+    "pol" : "zenski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130efb893ed8d3408ce8d71"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "EgipcankaT4",
+    "prezime" : "Egipic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130efbd93ed8d3408ce8d72"),
+    "discipline" : [ 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "EgipcankaT5",
+    "prezime" : "Egipic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Egipat",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f04793ed8d3408ce8d73"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }
+    ],
+    "ime" : "EnglezT1",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f05093ed8d3408ce8d74"),
+    "discipline" : [ 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }
+    ],
+    "ime" : "EnglezT2",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f05893ed8d3408ce8d75"),
+    "discipline" : [ 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "EnglezT3",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f05c93ed8d3408ce8d76"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }
+    ],
+    "ime" : "EnglezT4",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f06a93ed8d3408ce8d77"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }
+    ],
+    "ime" : "EnglezT5",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f07593ed8d3408ce8d78"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "EnglezT6",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f07a93ed8d3408ce8d79"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "EnglezT7",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f08193ed8d3408ce8d7a"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "EnglezT8",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f08693ed8d3408ce8d7b"),
+    "discipline" : [ 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "EnglezT9",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f08b93ed8d3408ce8d7c"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }
+    ],
+    "ime" : "EnglezT10",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f09293ed8d3408ce8d7d"),
+    "discipline" : [ 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "EnglezT11",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f09793ed8d3408ce8d7e"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "EnglezT12",
+    "prezime" : "Englezic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0a493ed8d3408ce8d7f"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "Engleskinja",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0a993ed8d3408ce8d80"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "EngleskinjaT2",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0b093ed8d3408ce8d81"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "50m trostav"
+        }
+    ],
+    "ime" : "EngleskinjaT3",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0b893ed8d3408ce8d82"),
+    "discipline" : [ 
+        {
+            "disciplina" : "200m slobodno"
+        }, 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "EngleskinjaT4",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0bf93ed8d3408ce8d83"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "EngleskinjaT5",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0c493ed8d3408ce8d84"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje koplja"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }
+    ],
+    "ime" : "EngleskinjaT6",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0cb93ed8d3408ce8d85"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "EngleskinjaT7",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0d993ed8d3408ce8d86"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }
+    ],
+    "ime" : "EngleskinjaT8",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0e193ed8d3408ce8d87"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }
+    ],
+    "ime" : "EngleskinjaT9",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0e893ed8d3408ce8d88"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }
+    ],
+    "ime" : "EngleskinjaT10",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0f293ed8d3408ce8d89"),
+    "discipline" : [ 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }
+    ],
+    "ime" : "EngleskinjaT11",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f0ff93ed8d3408ce8d8a"),
+    "discipline" : [ 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }
+    ],
+    "ime" : "EngleskinjaT12",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f10693ed8d3408ce8d8b"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }
+    ],
+    "ime" : "EngleskinjaT13",
+    "prezime" : "Englezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Engleska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f25093ed8d3408ce8d8c"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "FrancuzT1",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f25893ed8d3408ce8d8d"),
+    "discipline" : [ 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "FrancuzT2",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f26093ed8d3408ce8d8e"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }
+    ],
+    "ime" : "FrancuzT3",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f26a93ed8d3408ce8d8f"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }
+    ],
+    "ime" : "FrancuzT4",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f27093ed8d3408ce8d90"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "FrancuzT5",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f27893ed8d3408ce8d91"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "FrancuzT6",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f27d93ed8d3408ce8d92"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "FrancuzT7",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f28493ed8d3408ce8d93"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "FrancuzT8",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f28a93ed8d3408ce8d94"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }
+    ],
+    "ime" : "FrancuzT9",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f29493ed8d3408ce8d95"),
+    "discipline" : [ 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "FrancuzT10",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f29b93ed8d3408ce8d96"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "FrancuzT11",
+    "prezime" : "Francuzic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2a893ed8d3408ce8d97"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "Francuskinja",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2b093ed8d3408ce8d98"),
+    "discipline" : [ 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }
+    ],
+    "ime" : "FrancuskinjaT2",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130f2b593ed8d3408ce8d99"),
+    "discipline" : [ 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "FrancuskinjaT3",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2ba93ed8d3408ce8d9a"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }
+    ],
+    "ime" : "FrancuskinjaT4",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2c093ed8d3408ce8d9b"),
+    "discipline" : [ 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }
+    ],
+    "ime" : "FrancuskinjaT5",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2c793ed8d3408ce8d9c"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "FrancuskinjaT6",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2d093ed8d3408ce8d9d"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "FrancuskinjaT7",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2d593ed8d3408ce8d9e"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "FrancuskinjaT8",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2d893ed8d3408ce8d9f"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "FrancuskinjaT9",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2e093ed8d3408ce8da0"),
+    "discipline" : [ 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "FrancuskinjaT10",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2e393ed8d3408ce8da1"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }
+    ],
+    "ime" : "FrancuskinjaT11",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2e993ed8d3408ce8da2"),
+    "discipline" : [ 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "FrancuskinjaT12",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f2ef93ed8d3408ce8da3"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "FrancuskinjaT13",
+    "prezime" : "Francuzic",
+    "pol" : "zenski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Francuska",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f31493ed8d3408ce8da4"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "GrkT1",
+    "prezime" : "Grkic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f31f93ed8d3408ce8da5"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }
+    ],
+    "ime" : "GrkT2",
+    "prezime" : "Grkic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6130f32993ed8d3408ce8da6"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "GrkT3",
+    "prezime" : "Grkic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f32f93ed8d3408ce8da7"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "GrkT4",
+    "prezime" : "Grkic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130f34193ed8d3408ce8da8"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "GrkT5",
+    "prezime" : "Grkic",
+    "pol" : "muski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f34593ed8d3408ce8da9"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "GrkT6",
+    "prezime" : "Grkic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f34d93ed8d3408ce8daa"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "GrkT7",
+    "prezime" : "Grkic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f35693ed8d3408ce8dab"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "GrkT8",
+    "prezime" : "Grkic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f36193ed8d3408ce8dac"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "maraton"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }
+    ],
+    "ime" : "GrkinjaT1",
+    "prezime" : "Grkic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f37c93ed8d3408ce8dad"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "GrkinjaT2",
+    "prezime" : "Grkic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f38293ed8d3408ce8dae"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "50m trostav"
+        }
+    ],
+    "ime" : "GrkinjaT3",
+    "prezime" : "Grkic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f39793ed8d3408ce8daf"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "GrkinjaT4",
+    "prezime" : "Grkic",
+    "pol" : "zenski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f3a093ed8d3408ce8db0"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "GrkinjaT5",
+    "prezime" : "Grkic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f3a793ed8d3408ce8db1"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "GrkinjaT6",
+    "prezime" : "Grkic",
+    "pol" : "zenski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Grcka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f3c593ed8d3408ce8db2"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "HolandjaninT1",
+    "prezime" : "Holandic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Holandija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f3cf93ed8d3408ce8db3"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }
+    ],
+    "ime" : "HolandjaninT2",
+    "prezime" : "Holandic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Holandija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130f3db93ed8d3408ce8db4"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "HolandjaninT3",
+    "prezime" : "Holandic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Holandija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130f3e193ed8d3408ce8db5"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "HolandjaninT4",
+    "prezime" : "Holandic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Holandija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130f3f093ed8d3408ce8db6"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "50m trostav"
+        }
+    ],
+    "ime" : "HolandjankaT1",
+    "prezime" : "Holandic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Holandija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f3fb93ed8d3408ce8db7"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "HolandjankaT2",
+    "prezime" : "Holandic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Holandija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f40593ed8d3408ce8db8"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }
+    ],
+    "ime" : "HolandjankaT3",
+    "prezime" : "Holandic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Holandija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f40f93ed8d3408ce8db9"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "HolandjankaT4",
+    "prezime" : "Holandic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Holandija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f46593ed8d3408ce8dba"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "IndijacT1",
+    "prezime" : "Indijic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Indija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f47093ed8d3408ce8dbb"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "maraton"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "IndijacT2",
+    "prezime" : "Indijic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Indija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f47d93ed8d3408ce8dbc"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "IndijacT3",
+    "prezime" : "Indijic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Indija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f49f93ed8d3408ce8dbd"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "IndijacT4",
+    "prezime" : "Indijic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Indija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f4b293ed8d3408ce8dbe"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "maraton"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "IndijkaT1",
+    "prezime" : "Indijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Indija",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f4c993ed8d3408ce8dbf"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "IndijkaT2",
+    "prezime" : "Indijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Indija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f4cd93ed8d3408ce8dc0"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "IndijkaT3",
+    "prezime" : "Indijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Indija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f4d293ed8d3408ce8dc1"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "IndijkaT4",
+    "prezime" : "Indijic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Indija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f50393ed8d3408ce8dc2"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "ItalijanT1",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f50d93ed8d3408ce8dc3"),
+    "discipline" : [ 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "ItalijanT3",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130f51393ed8d3408ce8dc4"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }
+    ],
+    "ime" : "ItalijanT4",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f51d93ed8d3408ce8dc5"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "ItalijanT5",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f52a93ed8d3408ce8dc6"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "ItalijanT6",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f53793ed8d3408ce8dc7"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "ItalijanT7",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f53c93ed8d3408ce8dc8"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "ItalijanT8",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f54493ed8d3408ce8dc9"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }
+    ],
+    "ime" : "ItalijanT9",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f54b93ed8d3408ce8dca"),
+    "discipline" : [ 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "ItalijanT10",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130f55093ed8d3408ce8dcb"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "ItalijanT11",
+    "prezime" : "Italic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f55993ed8d3408ce8dcc"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "ItalijankaT1",
+    "prezime" : "Italic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f56093ed8d3408ce8dcd"),
+    "discipline" : [ 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "ItalijankaT2",
+    "prezime" : "Italic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f56893ed8d3408ce8dce"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }
+    ],
+    "ime" : "ItalijankaT3",
+    "prezime" : "Italic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f56e93ed8d3408ce8dcf"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }
+    ],
+    "ime" : "ItalijankaT4",
+    "prezime" : "Italic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f57593ed8d3408ce8dd0"),
+    "discipline" : [ 
+        {
+            "disciplina" : "maraton"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "ItalijankaT5",
+    "prezime" : "Italic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f57c93ed8d3408ce8dd1"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "ItalijankaT6",
+    "prezime" : "Italic",
+    "pol" : "zenski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f58093ed8d3408ce8dd2"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "ItalijankaT7",
+    "prezime" : "Italic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f58693ed8d3408ce8dd3"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "ItalijankaT8",
+    "prezime" : "Italic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f58c93ed8d3408ce8dd4"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "ItalijankaT9",
+    "prezime" : "Italic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Italija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f5d293ed8d3408ce8dd5"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }
+    ],
+    "ime" : "JapanacT1",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f5da93ed8d3408ce8dd6"),
+    "discipline" : [ 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }
+    ],
+    "ime" : "JapanacT2",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f60693ed8d3408ce8dd7"),
+    "discipline" : [ 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "JapanacT3",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f60b93ed8d3408ce8dd8"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }
+    ],
+    "ime" : "JapanacT4",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f61293ed8d3408ce8dd9"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok s motkom"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }
+    ],
+    "ime" : "JapanacT5",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f61893ed8d3408ce8dda"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "JapanacT6",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f61e93ed8d3408ce8ddb"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "JapanacT7",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f62593ed8d3408ce8ddc"),
+    "discipline" : [ 
+        {
+            "disciplina" : "drumska trka 225km"
+        }
+    ],
+    "ime" : "JapanacT8",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Biciklizam",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f62a93ed8d3408ce8ddd"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "JapanacT9",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f63793ed8d3408ce8dde"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "JapanacT10",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f64093ed8d3408ce8ddf"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "JapanacT11",
+    "prezime" : "Japanic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f65d93ed8d3408ce8de0"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "JapanicT1",
+    "prezime" : "Japanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f66393ed8d3408ce8de1"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "JapanicT2",
+    "prezime" : "Japanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f66b93ed8d3408ce8de2"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "JapanicT3",
+    "prezime" : "Japanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f67093ed8d3408ce8de3"),
+    "discipline" : [ 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "JapanicT4",
+    "prezime" : "Japanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f67693ed8d3408ce8de4"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }, 
+        {
+            "disciplina" : "skok s motkom"
+        }
+    ],
+    "ime" : "JapanicT5",
+    "prezime" : "Japanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f67f93ed8d3408ce8de5"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }, 
+        {
+            "disciplina" : "bacanje koplja"
+        }
+    ],
+    "ime" : "JapanicT6",
+    "prezime" : "Japanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f68c93ed8d3408ce8de6"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "JapanicT7",
+    "prezime" : "Japanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Japan",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f82e93ed8d3408ce8de7"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }, 
+        {
+            "disciplina" : "1000 metara trcanje"
+        }
+    ],
+    "ime" : "KinezT1",
+    "prezime" : "Kinezic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Kina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f83b93ed8d3408ce8de8"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }
+    ],
+    "ime" : "KinezT2",
+    "prezime" : "Kinezic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Kina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f84993ed8d3408ce8de9"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "KinezT3",
+    "prezime" : "Kinezic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Kina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f85193ed8d3408ce8dea"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "KinezT4",
+    "prezime" : "Kinezic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Kina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f86293ed8d3408ce8deb"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }
+    ],
+    "ime" : "Kineskinja",
+    "prezime" : "Kinezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Kina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f86a93ed8d3408ce8dec"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }
+    ],
+    "ime" : "KineskinjaT2",
+    "prezime" : "Kinezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Kina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f87693ed8d3408ce8ded"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "KineskinjaT3",
+    "prezime" : "Kinezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Kina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f88093ed8d3408ce8dee"),
+    "discipline" : [ 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "KineskinjaT4",
+    "prezime" : "Kinezic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Kina",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f93793ed8d3408ce8def"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "NemacT1",
+    "prezime" : "Nemic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f93d93ed8d3408ce8df0"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }
+    ],
+    "ime" : "NemacT2",
+    "prezime" : "Nemic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f94193ed8d3408ce8df1"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }
+    ],
+    "ime" : "NemacT3",
+    "prezime" : "Nemic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f94993ed8d3408ce8df2"),
+    "discipline" : [ 
+        {
+            "disciplina" : "200m slobodno"
+        }, 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "NemacT4",
+    "prezime" : "Nemic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f94f93ed8d3408ce8df3"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }
+    ],
+    "ime" : "NemacT5",
+    "prezime" : "Nemic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f95693ed8d3408ce8df4"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "NemacT6",
+    "prezime" : "Nemic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f97393ed8d3408ce8df5"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "NemicaT1",
+    "prezime" : "Nemic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f97c93ed8d3408ce8df6"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "troskok"
+        }
+    ],
+    "ime" : "NemicaT2",
+    "prezime" : "Nemic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f98293ed8d3408ce8df7"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }, 
+        {
+            "disciplina" : "maraton"
+        }
+    ],
+    "ime" : "NemicaT3",
+    "prezime" : "Nemic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f98d93ed8d3408ce8df8"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "NemicaT4",
+    "prezime" : "Nemic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f99393ed8d3408ce8df9"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }, 
+        {
+            "disciplina" : "10m vazdusni pistolj"
+        }
+    ],
+    "ime" : "NemicaT5",
+    "prezime" : "Nemic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Nemacka",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f9da93ed8d3408ce8dfa"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }
+    ],
+    "ime" : "RusT1",
+    "prezime" : "Rusic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f9e593ed8d3408ce8dfb"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }
+    ],
+    "ime" : "RusT2",
+    "prezime" : "Rusic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f9ed93ed8d3408ce8dfc"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje kugle"
+        }, 
+        {
+            "disciplina" : "bacanje diska"
+        }
+    ],
+    "ime" : "RusT3",
+    "prezime" : "Rusic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130f9f393ed8d3408ce8dfd"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "RusT4",
+    "prezime" : "Rusic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130f9fa93ed8d3408ce8dfe"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "RusT5",
+    "prezime" : "Rusic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa0593ed8d3408ce8dff"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "RusT6",
+    "prezime" : "Rusic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa0e93ed8d3408ce8e00"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }, 
+        {
+            "disciplina" : "800 metara trcanje"
+        }
+    ],
+    "ime" : "RuskinjaT1",
+    "prezime" : "Rusic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa1793ed8d3408ce8e01"),
+    "discipline" : [ 
+        {
+            "disciplina" : "5000 metara trcanje"
+        }
+    ],
+    "ime" : "RuskinjaT2",
+    "prezime" : "Rusic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa1d93ed8d3408ce8e02"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }
+    ],
+    "ime" : "RuskinjaT3",
+    "prezime" : "Rusic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa2393ed8d3408ce8e03"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "RuskinjaT4",
+    "prezime" : "Rusic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa2893ed8d3408ce8e04"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "RuskinjaT5",
+    "prezime" : "Rusic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa3193ed8d3408ce8e05"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "RuskinjaT6",
+    "prezime" : "Rusic",
+    "pol" : "zenski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Rusija",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa7c93ed8d3408ce8e06"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }
+    ],
+    "ime" : "AmerikanacT1",
+    "prezime" : "Amerikic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "SAD",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa8793ed8d3408ce8e07"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "AmerikanacT2",
+    "prezime" : "Amerikic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "SAD",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa8b93ed8d3408ce8e08"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }
+    ],
+    "ime" : "AmerikanacT3",
+    "prezime" : "Amerikic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "SAD",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa9293ed8d3408ce8e09"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "AmerikanacT5",
+    "prezime" : "Amerikic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "SAD",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fa9b93ed8d3408ce8e0a"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }, 
+        {
+            "disciplina" : "bacanje kladiva"
+        }
+    ],
+    "ime" : "AmerikankaT1",
+    "prezime" : "Amerikic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "SAD",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130faab93ed8d3408ce8e0b"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "AmerikankaT2",
+    "prezime" : "Amerikic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "SAD",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130faaf93ed8d3408ce8e0c"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }
+    ],
+    "ime" : "AmerikankaT3",
+    "prezime" : "Amerikic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "SAD",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fab893ed8d3408ce8e0d"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "AmerikankaT4",
+    "prezime" : "Amerikic",
+    "pol" : "zenski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "SAD",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130faeb93ed8d3408ce8e0e"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }
+    ],
+    "ime" : "SpanacT1",
+    "prezime" : "Spanic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Spanija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130faf593ed8d3408ce8e0f"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }
+    ],
+    "ime" : "SpanjolkaT1",
+    "prezime" : "Spanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Spanija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb0893ed8d3408ce8e10"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }
+    ],
+    "ime" : "SpanjolkaT2",
+    "prezime" : "Spanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Spanija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb0e93ed8d3408ce8e11"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }
+    ],
+    "ime" : "SpanjolkaT3",
+    "prezime" : "Spanic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Spanija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb1593ed8d3408ce8e12"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }
+    ],
+    "ime" : "SpanacT2",
+    "prezime" : "Spanic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Spanija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb5893ed8d3408ce8e13"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "SrbinT1",
+    "prezime" : "Srbic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb5d93ed8d3408ce8e14"),
+    "discipline" : [ 
+        {
+            "disciplina" : "800 metara trcanje"
+        }, 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }
+    ],
+    "ime" : "SrbinT2",
+    "prezime" : "Srbic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb6893ed8d3408ce8e15"),
+    "discipline" : [ 
+        {
+            "disciplina" : "bacanje koplja"
+        }, 
+        {
+            "disciplina" : "bacanje kugle"
+        }
+    ],
+    "ime" : "SrbinT3",
+    "prezime" : "Srbic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb6f93ed8d3408ce8e16"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }, 
+        {
+            "disciplina" : "200m slobodno"
+        }
+    ],
+    "ime" : "SrbinT4",
+    "prezime" : "Srbic",
+    "pol" : "muski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb7493ed8d3408ce8e17"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }, 
+        {
+            "disciplina" : "25m malokalib. pistolj"
+        }
+    ],
+    "ime" : "SrbinT5",
+    "prezime" : "Srbic",
+    "pol" : "muski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb7d93ed8d3408ce8e18"),
+    "discipline" : [ 
+        {
+            "disciplina" : "singl"
+        }
+    ],
+    "ime" : "SrbinT6",
+    "prezime" : "Srbic",
+    "pol" : "muski",
+    "nazivSporta" : "Tenis",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb8693ed8d3408ce8e19"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }, 
+        {
+            "disciplina" : "200 metara trcanje"
+        }, 
+        {
+            "disciplina" : "400 metara trcanje"
+        }
+    ],
+    "ime" : "SrpkinjaT1",
+    "prezime" : "Srbic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb8e93ed8d3408ce8e1a"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "skok u dalj"
+        }
+    ],
+    "ime" : "SrpkinjaT2",
+    "prezime" : "Srbic",
+    "pol" : "zenski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fb9693ed8d3408ce8e1b"),
+    "discipline" : [ 
+        {
+            "disciplina" : "50m trostav"
+        }, 
+        {
+            "disciplina" : "10m vazdusna puska"
+        }
+    ],
+    "ime" : "SrpkinjaT3",
+    "prezime" : "Srbic",
+    "pol" : "zenski",
+    "nazivSporta" : "Streljastvo",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "true",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fba193ed8d3408ce8e1c"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100m leptir"
+        }
+    ],
+    "ime" : "SrpkinjaT4",
+    "prezime" : "Srbic",
+    "pol" : "zenski",
+    "nazivSporta" : "Plivanje",
+    "nacionalnost" : "Srbija",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fbbf93ed8d3408ce8e1d"),
+    "discipline" : [ 
+        {
+            "disciplina" : "100 metara trcanje"
+        }
+    ],
+    "ime" : "PortugalacT1",
+    "prezime" : "Portulagic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Portugal",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fc8293ed8d3408ce8e1e"),
+    "discipline" : [ 
+        {
+            "disciplina" : "skok u vis"
+        }, 
+        {
+            "disciplina" : "100 metara trcanje"
+        }
+    ],
+    "ime" : "Turcin",
+    "prezime" : "Turkic",
+    "pol" : "muski",
+    "nazivSporta" : "Atletika",
+    "nacionalnost" : "Turska",
+    "osvajacMedalje" : "false",
+    "__v" : 0
+}

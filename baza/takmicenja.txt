@@ -1,0 +1,1205 @@
+
+{
+    "_id" : ObjectId("6130fd0393ed8d3408ce8e1f"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinacT1",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BrazilacT1",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "BelgijanacT1",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "EgipcaninT1",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "EnglezT1",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "FrancuzT1",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkT1",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "HolandjaninT1",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "IndijacT1",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "ItalijanT1",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanacT1",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "KinezT1",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "NemacT1",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RusT1",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikanacT1",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SpanacT1",
+            "prezime" : "Spanic",
+            "nacionalnost" : "Spanija"
+        }, 
+        {
+            "ime" : "SrbinT1",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }, 
+        {
+            "ime" : "PortugalacT1",
+            "prezime" : "Portulagic",
+            "nacionalnost" : "Portugal"
+        }, 
+        {
+            "ime" : "Turcin",
+            "prezime" : "Turkic",
+            "nacionalnost" : "Turska"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "delegat1"
+        }, 
+        {
+            "kor_ime" : "delegat2"
+        }
+    ],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "100 metara trcanje",
+    "format" : "ss:tt-pokusaj:1",
+    "pol" : "muski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-15",
+    "tacanDatum" : "2021-09-07",
+    "satnica" : "18:00",
+    "lokacija" : "lokacija1",
+    "boljiRezultat" : -1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fd0893ed8d3408ce8e20"),
+    "sportisti" : [ 
+        {
+            "ime" : "Argentinka",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BelgijankaT1",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "BrazilkaT11",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "EgipcankaT1",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "EngleskinjaT13",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "Francuskinja",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkinjaT1",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "HolandjankaT2",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "IndijkaT1",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "ItalijankaT1",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanicT3",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "Kineskinja",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "NemicaT1",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RuskinjaT1",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikankaT1",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SpanjolkaT1",
+            "prezime" : "Spanic",
+            "nacionalnost" : "Spanija"
+        }, 
+        {
+            "ime" : "SrpkinjaT1",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "delegat1"
+        }, 
+        {
+            "kor_ime" : "delegat2"
+        }
+    ],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "100 metara trcanje",
+    "format" : "ss:tt-pokusaj:1",
+    "pol" : "zenski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-15",
+    "tacanDatum" : "",
+    "satnica" : "",
+    "lokacija" : "lokacija1",
+    "boljiRezultat" : -1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130fd2493ed8d3408ce8e21"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinacT2",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "EgipcaninT2",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "BelgijanacT2",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "EnglezT4",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "FrancuzT3",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkT2",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "BrazilacT1",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "HolandjaninT2",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "ItalijanT4",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "KinezT2",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "NemacT2",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "JapanacT4",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "AmerikanacT1",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "Turcin",
+            "prezime" : "Turkic",
+            "nacionalnost" : "Turska"
+        }, 
+        {
+            "ime" : "IndijacT2",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "RusT2",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "SrbinT2",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "delegat2"
+        }, 
+        {
+            "kor_ime" : "delegat1"
+        }, 
+        {
+            "kor_ime" : "delegat3"
+        }, 
+        {
+            "kor_ime" : "delegat4"
+        }
+    ],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "skok u vis",
+    "format" : "m:cm-pokusaj:3",
+    "pol" : "muski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-15",
+    "tacanDatum" : "2021-09-07",
+    "satnica" : "18:00",
+    "lokacija" : "lokacija2",
+    "boljiRezultat" : 1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130fd2893ed8d3408ce8e22"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinkaT2",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BrazilkaT10",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "BelgijankaT2",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "EgipcankaT2",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "EngleskinjaT10",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "FrancuskinjaT4",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkinjaT1",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "HolandjankaT3",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "IndijkaT1",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "ItalijankaT3",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanicT5",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "KineskinjaT2",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "NemicaT2",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RuskinjaT3",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikankaT1",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SpanjolkaT2",
+            "prezime" : "Spanic",
+            "nacionalnost" : "Spanija"
+        }, 
+        {
+            "ime" : "SrpkinjaT2",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "delegati" : [],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "skok u vis",
+    "format" : "m:cm-pokusaj:3",
+    "pol" : "zenski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-15",
+    "tacanDatum" : "",
+    "satnica" : "",
+    "lokacija" : "lokacija2",
+    "boljiRezultat" : 1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130fd4293ed8d3408ce8e23"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinacT7",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BelgijanacT7",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "BrazilacT5",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "EgipcaninT6",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "EnglezT8",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "FrancuzT8",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkT6",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "HolandjaninT3",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "IndijacT3",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "ItalijanT8",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanacT9",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "KinezT3",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "NemacT4",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RusT4",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikanacT2",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SrbinT4",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "delegat4"
+        }, 
+        {
+            "kor_ime" : "Delegat5"
+        }
+    ],
+    "nazivSporta" : "Plivanje",
+    "nazivDiscipline" : "100m leptir",
+    "format" : "ss:tt-pokusaj:1",
+    "pol" : "muski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-15",
+    "tacanDatum" : "2021-09-06",
+    "satnica" : "18:00",
+    "lokacija" : "lokacija3",
+    "boljiRezultat" : -1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fd4793ed8d3408ce8e24"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinkaT5",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BrazilkaT5",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "BelgijankaT4",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "EngleskinjaT4",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "EgipcankaT4",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "FrancuskinjaT9",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkinjaT2",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "HolandjankaT4",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "IndijkaT3",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "ItalijankaT7",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanicT7",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "KineskinjaT3",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "NemicaT4",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RuskinjaT4",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikankaT2",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SrpkinjaT4",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "Delegat5"
+        }, 
+        {
+            "kor_ime" : "Delegat6"
+        }
+    ],
+    "nazivSporta" : "Plivanje",
+    "nazivDiscipline" : "100m leptir",
+    "format" : "ss:tt-pokusaj:1",
+    "pol" : "zenski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-15",
+    "tacanDatum" : "",
+    "satnica" : "",
+    "lokacija" : "lokacija3",
+    "boljiRezultat" : -1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fd5c93ed8d3408ce8e25"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinacT8",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BrazilacT6",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "EgipcaninT7",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "EnglezT10",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "FrancuzT9",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "HolandjaninT4",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "IndijacT4",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "ItalijanT9",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanacT10",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "KinezT4",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "NemacT5",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RusT5",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikanacT3",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SpanacT2",
+            "prezime" : "Spanic",
+            "nacionalnost" : "Spanija"
+        }, 
+        {
+            "ime" : "SrbinT5",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "Delegat6"
+        }, 
+        {
+            "kor_ime" : "Delegat7"
+        }
+    ],
+    "nazivSporta" : "Streljastvo",
+    "nazivDiscipline" : "50m trostav",
+    "format" : "streljastvo-pokusaj:6",
+    "pol" : "muski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-13",
+    "tacanDatum" : "2021-09-08",
+    "satnica" : "19:00",
+    "lokacija" : "lokacija4",
+    "boljiRezultat" : 1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fd6393ed8d3408ce8e26"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinkaT6",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BelgijankaT5",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "BrazilkaT4",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "EgipcankaT5",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "EngleskinjaT3",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "FrancuskinjaT11",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkinjaT3",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "HolandjankaT1",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "IndijkaT4",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "ItalijankaT8",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanicT2",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "NemicaT5",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RuskinjaT5",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikankaT3",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SpanjolkaT3",
+            "prezime" : "Spanic",
+            "nacionalnost" : "Spanija"
+        }, 
+        {
+            "ime" : "SrpkinjaT3",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "Delegat7"
+        }, 
+        {
+            "kor_ime" : "Delegat8"
+        }
+    ],
+    "nazivSporta" : "Streljastvo",
+    "nazivDiscipline" : "50m trostav",
+    "format" : "streljastvo-pokusaj:6",
+    "pol" : "zenski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-13",
+    "tacanDatum" : "2021-09-09",
+    "satnica" : "19:00",
+    "lokacija" : "lokacija4",
+    "boljiRezultat" : 1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fd7193ed8d3408ce8e27"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinacT9",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BrazilacT8",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "BelgijanacT10",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "EnglezT12",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "FrancuzT11",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkT8",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "ItalijanT11",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanacT11",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "NemacT6",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "RusT6",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "AmerikanacT5",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SrbinT6",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "Delegat8"
+        }, 
+        {
+            "kor_ime" : "Delegat9"
+        }
+    ],
+    "nazivSporta" : "Tenis",
+    "nazivDiscipline" : "singl",
+    "format" : "tenis-maxSetovi:3",
+    "pol" : "muski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-13",
+    "tacanDatum" : "",
+    "satnica" : "",
+    "lokacija" : "lokacija5",
+    "boljiRezultat" : 1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130fd7493ed8d3408ce8e28"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinkaT7",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "Engleskinja",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "BelgijankaT6",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "FrancuskinjaT13",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkinjaT4",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "RuskinjaT6",
+            "prezime" : "Rusic",
+            "nacionalnost" : "Rusija"
+        }, 
+        {
+            "ime" : "JapanicT1",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "BrazilkaT1",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "AmerikankaT4",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "Delegat9"
+        }, 
+        {
+            "kor_ime" : "Delegat10"
+        }
+    ],
+    "nazivSporta" : "Tenis",
+    "nazivDiscipline" : "singl",
+    "format" : "tenis-maxSetovi:3",
+    "pol" : "zenski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-10-13",
+    "tacanDatum" : "2021-09-07",
+    "satnica" : "19:00",
+    "lokacija" : "lokacija5",
+    "boljiRezultat" : 1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6131054a93ed8d3408ce8e2f"),
+    "sportisti" : [],
+    "delegati" : [],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "200 metara trcanje",
+    "format" : "ss:tt-pokusaj:1",
+    "pol" : "muski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-09-11",
+    "tacanDatum" : "",
+    "satnica" : "",
+    "lokacija" : "lokacija6",
+    "boljiRezultat" : -1,
+    "sportistiDodati" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6131055093ed8d3408ce8e30"),
+    "sportisti" : [],
+    "delegati" : [],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "200 metara trcanje",
+    "format" : "ss:tt-pokusaj:1",
+    "pol" : "zenski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-09-11",
+    "tacanDatum" : "",
+    "satnica" : "",
+    "lokacija" : "lokacija6",
+    "boljiRezultat" : -1,
+    "sportistiDodati" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6131057793ed8d3408ce8e35"),
+    "sportisti" : [],
+    "delegati" : [],
+    "nazivSporta" : "Biciklizam",
+    "nazivDiscipline" : "drumska trka 225km",
+    "format" : "hh:mm:ss-pokusaj:1",
+    "pol" : "muski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-09-11",
+    "tacanDatum" : "",
+    "satnica" : "",
+    "lokacija" : "lokacija6",
+    "boljiRezultat" : -1,
+    "sportistiDodati" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6131058293ed8d3408ce8e36"),
+    "sportisti" : [],
+    "delegati" : [],
+    "nazivSporta" : "Biciklizam",
+    "nazivDiscipline" : "drumska trka 225km",
+    "format" : "hh:mm:ss-pokusaj:1",
+    "pol" : "zenski",
+    "datumPocetka" : "2021-09-02",
+    "datumKraja" : "2021-09-11",
+    "tacanDatum" : "",
+    "satnica" : "",
+    "lokacija" : "lokacija7",
+    "boljiRezultat" : -1,
+    "sportistiDodati" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("613108d193ed8d3408ce8e39"),
+    "sportisti" : [ 
+        {
+            "ime" : "ArgentinkaT2",
+            "prezime" : "Argentinic",
+            "nacionalnost" : "Argentina"
+        }, 
+        {
+            "ime" : "BelgijankaT2",
+            "prezime" : "Belgijic",
+            "nacionalnost" : "Belgija"
+        }, 
+        {
+            "ime" : "EgipcankaT2",
+            "prezime" : "Egipic",
+            "nacionalnost" : "Egipat"
+        }, 
+        {
+            "ime" : "BrazilkaT10",
+            "prezime" : "Brazilklic",
+            "nacionalnost" : "Brazil"
+        }, 
+        {
+            "ime" : "EngleskinjaT10",
+            "prezime" : "Englezic",
+            "nacionalnost" : "Engleska"
+        }, 
+        {
+            "ime" : "FrancuskinjaT4",
+            "prezime" : "Francuzic",
+            "nacionalnost" : "Francuska"
+        }, 
+        {
+            "ime" : "GrkinjaT1",
+            "prezime" : "Grkic",
+            "nacionalnost" : "Grcka"
+        }, 
+        {
+            "ime" : "HolandjankaT3",
+            "prezime" : "Holandic",
+            "nacionalnost" : "Holandija"
+        }, 
+        {
+            "ime" : "IndijkaT1",
+            "prezime" : "Indijic",
+            "nacionalnost" : "Indija"
+        }, 
+        {
+            "ime" : "ItalijankaT3",
+            "prezime" : "Italic",
+            "nacionalnost" : "Italija"
+        }, 
+        {
+            "ime" : "JapanicT5",
+            "prezime" : "Japanic",
+            "nacionalnost" : "Japan"
+        }, 
+        {
+            "ime" : "KineskinjaT2",
+            "prezime" : "Kinezic",
+            "nacionalnost" : "Kina"
+        }, 
+        {
+            "ime" : "NemicaT2",
+            "prezime" : "Nemic",
+            "nacionalnost" : "Nemacka"
+        }, 
+        {
+            "ime" : "AmerikankaT1",
+            "prezime" : "Amerikic",
+            "nacionalnost" : "SAD"
+        }, 
+        {
+            "ime" : "SrpkinjaT2",
+            "prezime" : "Srbic",
+            "nacionalnost" : "Srbija"
+        }
+    ],
+    "delegati" : [ 
+        {
+            "kor_ime" : "Delegat10"
+        }, 
+        {
+            "kor_ime" : "Delegat9"
+        }
+    ],
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "skok u dalj",
+    "format" : "m:cm-pokusaj:3",
+    "pol" : "zenski",
+    "datumPocetka" : "2021-09-03",
+    "datumKraja" : "2021-09-13",
+    "tacanDatum" : "2021-09-10",
+    "satnica" : "19:25",
+    "lokacija" : "lokacija15",
+    "boljiRezultat" : 1,
+    "sportistiDodati" : true,
+    "__v" : 0
+}

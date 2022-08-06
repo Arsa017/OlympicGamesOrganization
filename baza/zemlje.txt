@@ -1,0 +1,286 @@
+
+{
+    "_id" : ObjectId("6130df6a93ed8d3408ce8cd8"),
+    "naziv" : "Argentina",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 15,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130dfd593ed8d3408ce8cda"),
+    "naziv" : "Brazil",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 20,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e01393ed8d3408ce8cdc"),
+    "naziv" : "Egipat",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 12,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e05b93ed8d3408ce8cde"),
+    "naziv" : "Engleska",
+    "brZlatnihMedalja" : 1,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 1,
+    "ukBrSportista" : 25,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e08893ed8d3408ce8ce0"),
+    "naziv" : "Francuska",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 2,
+    "ukBrMedalja" : 2,
+    "ukBrSportista" : 24,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e0a993ed8d3408ce8ce2"),
+    "naziv" : "Grcka",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 1,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 1,
+    "ukBrSportista" : 14,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e0da93ed8d3408ce8ce4"),
+    "naziv" : "Indija",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 1,
+    "ukBrMedalja" : 1,
+    "ukBrSportista" : 8,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e0fe93ed8d3408ce8ce6"),
+    "naziv" : "Italija",
+    "brZlatnihMedalja" : 1,
+    "brSrebrnihMedalja" : 1,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 2,
+    "ukBrSportista" : 19,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e12d93ed8d3408ce8ce8"),
+    "naziv" : "Japan",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 18,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e15193ed8d3408ce8cea"),
+    "naziv" : "Kina",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 8,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e16d93ed8d3408ce8cec"),
+    "naziv" : "Nemacka",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 1,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 1,
+    "ukBrSportista" : 11,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e18b93ed8d3408ce8cee"),
+    "naziv" : "Rusija",
+    "brZlatnihMedalja" : 1,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 1,
+    "ukBrSportista" : 12,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e1b293ed8d3408ce8cf0"),
+    "naziv" : "SAD",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 2,
+    "brBronzanihMedalja" : 2,
+    "ukBrMedalja" : 4,
+    "ukBrSportista" : 8,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e1d093ed8d3408ce8cf2"),
+    "naziv" : "Spanija",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 5,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e1ef93ed8d3408ce8cf4"),
+    "naziv" : "Srbija",
+    "brZlatnihMedalja" : 3,
+    "brSrebrnihMedalja" : 1,
+    "brBronzanihMedalja" : 1,
+    "ukBrMedalja" : 5,
+    "ukBrSportista" : 10,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e73b93ed8d3408ce8d05"),
+    "naziv" : "Belgija",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 15,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e79393ed8d3408ce8d07"),
+    "naziv" : "Holandija",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 8,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e7bf93ed8d3408ce8d09"),
+    "naziv" : "Portugal",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 1,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e7fa93ed8d3408ce8d0b"),
+    "naziv" : "Senegal",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 0,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e83793ed8d3408ce8d0d"),
+    "naziv" : "Svajcarska",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 0,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e88893ed8d3408ce8d0f"),
+    "naziv" : "Svedska",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 0,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e8b893ed8d3408ce8d11"),
+    "naziv" : "Turska",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 1,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e90093ed8d3408ce8d13"),
+    "naziv" : "Ukrajina",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 0,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e92593ed8d3408ce8d15"),
+    "naziv" : "Poljska",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 0,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e9d093ed8d3408ce8d17"),
+    "naziv" : "Austrija",
+    "brZlatnihMedalja" : 0,
+    "brSrebrnihMedalja" : 0,
+    "brBronzanihMedalja" : 0,
+    "ukBrMedalja" : 0,
+    "ukBrSportista" : 0,
+    "__v" : 0
+}

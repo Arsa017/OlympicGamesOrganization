@@ -1,0 +1,304 @@
+
+{
+    "_id" : ObjectId("6130ea3793ed8d3408ce8d18"),
+    "nazivSporta" : "Kosarka",
+    "nazivDiscipline" : "",
+    "vrstaSporta" : "ekipni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ea4893ed8d3408ce8d19"),
+    "nazivSporta" : "Odbojka",
+    "nazivDiscipline" : "",
+    "vrstaSporta" : "ekipni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ea5593ed8d3408ce8d1a"),
+    "nazivSporta" : "Vaterpolo",
+    "nazivDiscipline" : "",
+    "vrstaSporta" : "ekipni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ea6893ed8d3408ce8d1b"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "100 metara trcanje",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : true,
+    "registrovanZ" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ea7593ed8d3408ce8d1c"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "stafetno trcanje 100",
+    "vrstaSporta" : "ekipni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130ea7c93ed8d3408ce8d1d"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "200 metara trcanje",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ea8493ed8d3408ce8d1e"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "400 metara trcanje",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ea8b93ed8d3408ce8d1f"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "800 metara trcanje",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130ea9693ed8d3408ce8d20"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "5000 metara trcanje",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130eaa493ed8d3408ce8d21"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "stafetno trcanje 400",
+    "vrstaSporta" : "ekipni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130eaf993ed8d3408ce8d22"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "1000 metara trcanje",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eb0593ed8d3408ce8d23"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "skok u vis",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : true,
+    "registrovanZ" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eb0c93ed8d3408ce8d24"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "skok u dalj",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130eb1293ed8d3408ce8d25"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "troskok",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130eb2e93ed8d3408ce8d26"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "skok s motkom",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130eb3a93ed8d3408ce8d27"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "bacanje kugle",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130eb4393ed8d3408ce8d28"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "bacanje diska",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eb4d93ed8d3408ce8d29"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "maraton",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eb5893ed8d3408ce8d2a"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "bacanje kladiva",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eb6093ed8d3408ce8d2b"),
+    "nazivSporta" : "Atletika",
+    "nazivDiscipline" : "bacanje koplja",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130eb7b93ed8d3408ce8d2c"),
+    "nazivSporta" : "Biciklizam",
+    "nazivDiscipline" : "drumska trka 225km",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130eb8a93ed8d3408ce8d2d"),
+    "nazivSporta" : "Plivanje",
+    "nazivDiscipline" : "100m leptir",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : true,
+    "registrovanZ" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130eb9993ed8d3408ce8d2e"),
+    "nazivSporta" : "Plivanje",
+    "nazivDiscipline" : "200m slobodno",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ebb093ed8d3408ce8d2f"),
+    "nazivSporta" : "Streljastvo",
+    "nazivDiscipline" : "50m trostav",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : true,
+    "registrovanZ" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130ebbb93ed8d3408ce8d30"),
+    "nazivSporta" : "Streljastvo",
+    "nazivDiscipline" : "10m vazdusna puska",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130ebd093ed8d3408ce8d31"),
+    "nazivSporta" : "Streljastvo",
+    "nazivDiscipline" : "25m malokalib. pistolj",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130ebe093ed8d3408ce8d32"),
+    "nazivSporta" : "Streljastvo",
+    "nazivDiscipline" : "10m vazdusni pistolj",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130ebeb93ed8d3408ce8d33"),
+    "nazivSporta" : "Tenis",
+    "nazivDiscipline" : "singl",
+    "vrstaSporta" : "individualni",
+    "registrovanM" : true,
+    "registrovanZ" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130ebf393ed8d3408ce8d34"),
+    "nazivSporta" : "Tenis",
+    "nazivDiscipline" : "dubl",
+    "vrstaSporta" : "ekipni",
+    "registrovanM" : false,
+    "registrovanZ" : false,
+    "__v" : 0
+}

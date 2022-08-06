@@ -1,0 +1,557 @@
+
+{
+    "_id" : ObjectId("6130de5893ed8d3408ce8cd6"),
+    "kor_ime" : "organizator",
+    "lozinka" : "Aleks22@@",
+    "ime" : "Aleksandar",
+    "prezime" : "Arsic",
+    "nacionalnost" : "Srbija",
+    "email" : "aleksandar.arsic017@gmail.com",
+    "tip" : "organizator",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130df6a93ed8d3408ce8cd7"),
+    "kor_ime" : "argentinac",
+    "lozinka" : "Argenti22@@",
+    "ime" : "Argentinac",
+    "prezime" : "Argentinic",
+    "nacionalnost" : "Argentina",
+    "email" : "argentinac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130dfd593ed8d3408ce8cd9"),
+    "kor_ime" : "brazilac",
+    "lozinka" : "Brazilac22@@",
+    "ime" : "Brazilac",
+    "prezime" : "Brazilkic",
+    "nacionalnost" : "Brazil",
+    "email" : "brazilac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e01393ed8d3408ce8cdb"),
+    "kor_ime" : "egipcanin",
+    "lozinka" : "Egipat22@@",
+    "ime" : "Egipcanin",
+    "prezime" : "Egipic",
+    "nacionalnost" : "Egipat",
+    "email" : "egipcanin@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e05b93ed8d3408ce8cdd"),
+    "kor_ime" : "englez",
+    "lozinka" : "Englez22@@",
+    "ime" : "Englez",
+    "prezime" : "Englezic",
+    "nacionalnost" : "Engleska",
+    "email" : "englez@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e08893ed8d3408ce8cdf"),
+    "kor_ime" : "francuz",
+    "lozinka" : "Francuz22@@",
+    "ime" : "Francuz",
+    "prezime" : "Francuzic",
+    "nacionalnost" : "Francuska",
+    "email" : "francuz@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e0a993ed8d3408ce8ce1"),
+    "kor_ime" : "grk",
+    "lozinka" : "Grcka22@@",
+    "ime" : "Grk",
+    "prezime" : "Grkic",
+    "nacionalnost" : "Grcka",
+    "email" : "grk@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e0da93ed8d3408ce8ce3"),
+    "kor_ime" : "Indijac",
+    "lozinka" : "Indijac22@@",
+    "ime" : "Indijac",
+    "prezime" : "Indijic",
+    "nacionalnost" : "Indija",
+    "email" : "indijac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e0fe93ed8d3408ce8ce5"),
+    "kor_ime" : "italijan",
+    "lozinka" : "Italijan22@@",
+    "ime" : "Italijan",
+    "prezime" : "Italic",
+    "nacionalnost" : "Italija",
+    "email" : "italijan@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e12d93ed8d3408ce8ce7"),
+    "kor_ime" : "japanac",
+    "lozinka" : "Japanac22@@",
+    "ime" : "Japanac",
+    "prezime" : "Japanic",
+    "nacionalnost" : "Japan",
+    "email" : "japanac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e15193ed8d3408ce8ce9"),
+    "kor_ime" : "kinez",
+    "lozinka" : "Kinez22@@",
+    "ime" : "Kinez",
+    "prezime" : "Kinezic",
+    "nacionalnost" : "Kina",
+    "email" : "kina@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e16d93ed8d3408ce8ceb"),
+    "kor_ime" : "nemac",
+    "lozinka" : "Nemac22@@",
+    "ime" : "Nemac",
+    "prezime" : "Nemic",
+    "nacionalnost" : "Nemacka",
+    "email" : "nemac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e18b93ed8d3408ce8ced"),
+    "kor_ime" : "rus",
+    "lozinka" : "Rusija22@@",
+    "ime" : "Rus",
+    "prezime" : "Rusic",
+    "nacionalnost" : "Rusija",
+    "email" : "rus@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e1b293ed8d3408ce8cef"),
+    "kor_ime" : "amerikanac",
+    "lozinka" : "Amer22@@",
+    "ime" : "Amerikanac",
+    "prezime" : "Amerikic",
+    "nacionalnost" : "SAD",
+    "email" : "amerikanac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e1d093ed8d3408ce8cf1"),
+    "kor_ime" : "spanac",
+    "lozinka" : "Spanac22@@",
+    "ime" : "Spanac",
+    "prezime" : "Spanic",
+    "nacionalnost" : "Spanija",
+    "email" : "spanac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e1ef93ed8d3408ce8cf3"),
+    "kor_ime" : "srbin",
+    "lozinka" : "Srbin22@@",
+    "ime" : "Srbin",
+    "prezime" : "Srbic",
+    "nacionalnost" : "Srbija",
+    "email" : "srbin@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e27d93ed8d3408ce8cf5"),
+    "kor_ime" : "delegat1",
+    "lozinka" : "Delegat01@@",
+    "ime" : "Delegat1",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Finska",
+    "email" : "delegat1@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e2af93ed8d3408ce8cf6"),
+    "kor_ime" : "delegat2",
+    "lozinka" : "Delegat02@@",
+    "ime" : "Delegat2",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Danska",
+    "email" : "delegat2@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e2df93ed8d3408ce8cf7"),
+    "kor_ime" : "delegat3",
+    "lozinka" : "Delegat03@@",
+    "ime" : "Delegat3",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Etiopija",
+    "email" : "delegat3@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e32093ed8d3408ce8cf8"),
+    "kor_ime" : "delegat4",
+    "lozinka" : "Delegat04@@",
+    "ime" : "Delegat4",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Meksiko",
+    "email" : "delegat4@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e35293ed8d3408ce8cf9"),
+    "kor_ime" : "Delegat5",
+    "lozinka" : "Delegat05@@",
+    "ime" : "Delegat5",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Izrael",
+    "email" : "delegat5@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e38c93ed8d3408ce8cfa"),
+    "kor_ime" : "Delegat6",
+    "lozinka" : "Delegat06@@",
+    "ime" : "Delegat6",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "BiH",
+    "email" : "delegat6@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e3d293ed8d3408ce8cfb"),
+    "kor_ime" : "Delegat7",
+    "lozinka" : "Delegat07@@",
+    "ime" : "Delegat7",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Svajcarska",
+    "email" : "delegat7@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e40893ed8d3408ce8cfc"),
+    "kor_ime" : "Delegat8",
+    "lozinka" : "Delegat08@@",
+    "ime" : "Delegat8",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Bugarska",
+    "email" : "delegat8@mai.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e42d93ed8d3408ce8cfd"),
+    "kor_ime" : "Delegat9",
+    "lozinka" : "Delegat09@@",
+    "ime" : "Delegat9",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Ukrajina",
+    "email" : "delegat9@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e45293ed8d3408ce8cfe"),
+    "kor_ime" : "Delegat10",
+    "lozinka" : "Delegat10@@",
+    "ime" : "Delegat10",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Holandija",
+    "email" : "delegat10@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e47c93ed8d3408ce8cff"),
+    "kor_ime" : "delegat11",
+    "lozinka" : "Delegat11@@",
+    "ime" : "Delegat11",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Kongo",
+    "email" : "delegat11@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e4ac93ed8d3408ce8d00"),
+    "kor_ime" : "delegat12",
+    "lozinka" : "Delegat12@@",
+    "ime" : "Delegat12",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Cile",
+    "email" : "delegat12@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e4cd93ed8d3408ce8d01"),
+    "kor_ime" : "delegat13",
+    "lozinka" : "Delegat13@@",
+    "ime" : "Delegat13",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Poljska",
+    "email" : "delegat13@mail.com",
+    "tip" : "delegat",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e4f693ed8d3408ce8d02"),
+    "kor_ime" : "delegat14",
+    "lozinka" : "Delegat14@@",
+    "ime" : "Delegat14",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Kazahstan",
+    "email" : "delegat14@mail.com",
+    "tip" : "delegat",
+    "registrovan" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e51e93ed8d3408ce8d03"),
+    "kor_ime" : "delegat15",
+    "lozinka" : "Delegat15@@",
+    "ime" : "Delegat15",
+    "prezime" : "Delegatic",
+    "nacionalnost" : "Norveska",
+    "email" : "delegat15@mail.com",
+    "tip" : "delegat",
+    "registrovan" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e73b93ed8d3408ce8d04"),
+    "kor_ime" : "belgijanac",
+    "lozinka" : "Belgija22@@",
+    "ime" : "Belgijanac",
+    "prezime" : "Belgijic",
+    "nacionalnost" : "Belgija",
+    "email" : "belgijanac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e79393ed8d3408ce8d06"),
+    "kor_ime" : "holandjanin",
+    "lozinka" : "Holand22@@",
+    "ime" : "Holandjanin",
+    "prezime" : "Holandic",
+    "nacionalnost" : "Holandija",
+    "email" : "holandjanin@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e7bf93ed8d3408ce8d08"),
+    "kor_ime" : "portugalac",
+    "lozinka" : "Portugal22@@",
+    "ime" : "Portugalac",
+    "prezime" : "Portugalic",
+    "nacionalnost" : "Portugal",
+    "email" : "portugalac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e7fa93ed8d3408ce8d0a"),
+    "kor_ime" : "senegalac",
+    "lozinka" : "Seneg22@@",
+    "ime" : "Senegalac",
+    "prezime" : "Senegalic",
+    "nacionalnost" : "Senegal",
+    "email" : "senegalac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e83793ed8d3408ce8d0c"),
+    "kor_ime" : "svajcarac",
+    "lozinka" : "Svajc22@@",
+    "ime" : "Svajcarac",
+    "prezime" : "Svajcaric",
+    "nacionalnost" : "Svajcarska",
+    "email" : "svajcarac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e88893ed8d3408ce8d0e"),
+    "kor_ime" : "svedjanin",
+    "lozinka" : "Svedjan22@@",
+    "ime" : "Svedjanin",
+    "prezime" : "Svedjanic",
+    "nacionalnost" : "Svedska",
+    "email" : "svedjanin@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e8b893ed8d3408ce8d10"),
+    "kor_ime" : "turcin",
+    "lozinka" : "Turcin22@@",
+    "ime" : "Turcin",
+    "prezime" : "Turkic",
+    "nacionalnost" : "Turska",
+    "email" : "turcin@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e90093ed8d3408ce8d12"),
+    "kor_ime" : "ukrajinac",
+    "lozinka" : "Ukrajina22@@",
+    "ime" : "Ukrajinac",
+    "prezime" : "Ukrajic",
+    "nacionalnost" : "Ukrajina",
+    "email" : "ukrajinac@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6130e92593ed8d3408ce8d14"),
+    "kor_ime" : "poljak",
+    "lozinka" : "Poljak22@@",
+    "ime" : "Poljak",
+    "prezime" : "Poljakic",
+    "nacionalnost" : "Poljska",
+    "email" : "poljak@mail.com",
+    "tip" : "vodja",
+    "registrovan" : true,
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("6130e9d093ed8d3408ce8d16"),
+    "kor_ime" : "austrijanac",
+    "lozinka" : "Austrija22@@",
+    "ime" : "Austrijanac",
+    "prezime" : "Austrijic",
+    "nacionalnost" : "Austrija",
+    "email" : "austrija@mail.com",
+    "tip" : "vodja",
+    "registrovan" : false,
+    "__v" : 0
+}
