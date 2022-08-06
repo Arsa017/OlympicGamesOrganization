@@ -7,7 +7,7 @@ This project was generated with Angular CLI version 12.0.1
 
 #Organizer
   1. Olympic Games admin
-  2. Accepting and declininig registration requests
+  2. Accepting and declining registration requests
   3. Registration of sports and sports disciplines
   3. Creating a competition format for m/f, location, date, etc
   4. Adding athletes and delegates for the competition
